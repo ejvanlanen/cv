@@ -1,5 +1,6 @@
 # EJ van Lanen
 _Product Manager and Publisher_
+
 _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_ <br>
 
 [Email](mailto:ej@pm.me) / [LinkedIn](https://www.linkedin.com/in/ejvanlanen/) / [This CV](https://ejvanlanen.github.io/cv)
@@ -8,7 +9,8 @@ _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_ <br>
 
 **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) 
 
-_Vienna, 🇦🇹 Austria (February 2022 - March 2024)_ <br>
+_Vienna, 🇦🇹 Austria (February 2022 - March 2024)_
+
 Peer reviewers make scientific publishing go, but they're overwhelmed with reviewing invitations and current platforms do little to support their work. I delivered a new platform that enabled Frontiers to attract reviewers without sending emails and developed an MVP platform to make reviewing more efficient. 
 - Conceived, prototyped, user tested, and delivered a platform ([Frontiers Discover](https://progressreport.frontiersin.org/innovation)) to transform Frontiers's peer review invitation system.
 - Innovative and mobile-friendly, Discover attracted tens of thousands of users, increased invitation conversion 6x (to ~18%), shortened review time, and improved the overall user experience at Frontiers.
@@ -20,7 +22,9 @@ Peer reviewers make scientific publishing go, but they're overwhelmed with revie
 <br><br>
 
 **Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) 
-_Munich, 🇩🇪 Germany (June 2019 - January 2022)_ <br>
+
+_Munich, 🇩🇪 Germany (June 2019 - January 2022)_
+
 German research institutions are generally unhappy with the costs, and constraints, of scientific publishing. Leveraging the growing trend of preprints, I created an MVP for a two-sided market for reviewing preprints.
 - Analyzed scientific publishing market to find space for modern publishing workflows for researchers in Germany and around the world.
 - Created product vision for a two-sided marketplace for the exchange and validation of scientific work, focusing on peer review as the key interaction.
