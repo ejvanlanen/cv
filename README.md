@@ -7,7 +7,7 @@ _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_ <br>
 
 ## 🧪 Product & Scientific Publishing Experience
 
-**Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) 
+### **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) 
 
 _Vienna, 🇦🇹 Austria (February 2022 - March 2024)_
 
@@ -67,7 +67,7 @@ _Rochester, NY, 🇺🇸 USA (January 2007 - August 2012)_
 With two colleagues, I co-founded Open Letter Books at the [University of Rochester](https://www.rochester.edu/). 
 - Acquired and edited ~50 book-length translations; designed Open Letter's book covers; and coded a CMS for the press's [website](http://web.archive.org/web/20111230014610/http://www.openletterbooks.org/) using Ruby on Rails.
 
-📖 **Editor** @ [Dalkey Archive Press](https://www.dalkeyarchive.com/) 
+**Editor** @ [Dalkey Archive Press](https://www.dalkeyarchive.com/) 
 _Bloomington, IL, 🇺🇸 USA (July 2006 - December 2006)_ <br>
 Designed and coded a CMS for the press's [website](http://web.archive.org/web/20061213083458/http://www.dalkeyarchive.com/) using Ruby on Rails and edited several book-length translations.
 <br><br>
