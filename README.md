@@ -15,7 +15,7 @@ Peer reviewers make scientific publishing go, but they're overwhelmed with revie
 - Conceived, prototyped, user tested, and delivered a platform ([Frontiers Discover](https://progressreport.frontiersin.org/innovation)) to transform Frontiers's peer review invitation system.
 - Innovative and mobile-friendly, Discover attracted tens of thousands of users, increased invitation conversion 6x (to ~18%), shortened review time, and improved the overall user experience at Frontiers.
 - Via a series of design sprints, co-created a vision and strategy to modernize Frontiers's aging peer review platform, the heart of its business.
-- Rallied support for the new reviewing platform across the company and served as lead product manager for UX design; frontend and backend development; software architecture; and final implementation of its MVP.
+- Rallied support for the new reviewing platform across the company and served as lead product manager for implementation of its MVP.
 - Led three cross-functional teams (~30 colleagues)—product managers; UX designers and researchers; frontend and backend engineers; architects and other business stakeholders—to deliver MVP and integrate with existing platform.
 - Conducted market analysis, organized design sprints, led user research, built prototypes, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
 - Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
