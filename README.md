@@ -14,7 +14,7 @@ Peer reviewers make scientific publishing go, but they're overwhelmed with revie
 - Innovative and mobile-friendly, Discover attracted tens of thousands of users, increased invitation conversion 6x (to ~18%), shortened review time, and improved the overall user experience at Frontiers.
 - Via a series of design sprints, co-created a vision and strategy to modernize Frontiers's aging peer review platform, the heart of its business.
 - Rallied support for the new reviewing platform across the company and served as lead product manager for implementation of its MVP.
-- Led three cross-functional teams (~30 colleagues)—product managers; UX designers and researchers; frontend and backend engineers; architects and other business stakeholders—to deliver MVP and integrate with existing platform.
+- Led three cross-functional teams (~30 colleagues)—product managers; UX designers and researchers; frontend and backend engineers; architects, and other business stakeholders—to deliver review platform MVP and integrate with existing platform.
 - Conducted market analysis, organized design sprints, led user research, built prototypes, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
 - Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
 
@@ -41,7 +41,7 @@ Researchers in Africa had a problem: communicating their science was difficult. 
 - Actively managed scores of Editors-in-Chief, helping them achieve growth and quality targets for their journals by providing technical, publishing, and strategic support.
 - Represented Elsevier at international scientific conferences, including the [Planet Earth Institute](https://planetearthinstitute.org.uk/'s) UnConference (2015, London, UK); the [UN Economic Commission for Africa](https://www.uneca.org/'s) Senior Experts Dialogue (2015, Nairobi, Kenya); and the Next Einstein Forum’s Global Gathering (2016, Dakar, Senegal).
 
-<br><br>
+<br>
 ## 📚 Book Publishing Experience
 
 ### **Founder & Publisher** @ [Frisch & Co. Ebooks](http://web.archive.org/web/20140707074238/http://frischand.co/)  
@@ -72,14 +72,14 @@ _New York, NY, 🇺🇸 USA (March 2001 - June 2026)_
 
 Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.
 
-<br><br>
+<br>
 ## 💬 Languages
 
 🇺🇸 **English**: Native
 
 🇩🇪 **German**: B2
 
-<br><br>
+<br>
 ## 👩🏼‍🎓 Education
 
 Advanced studies in Philosophy  
@@ -94,7 +94,7 @@ Advanced studies in Philosophy
 Studies in Computer Engineering  
 [Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_
 
-<br><br>
+<br>
 ## 🏆 Honors / Awards / Volunteering
 
 **Panelist and Speaker**, [Responsible Research](https://www.responsibleresearch.graduatecenter.uni-muenchen.de/event2021/index.html), Ludwig-Maximillians-Universität - Munich, 🇩🇪 Germany _(March 2021)_
