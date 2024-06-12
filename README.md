@@ -72,14 +72,14 @@ _New York, NY, 🇺🇸 USA (March 2001 - June 2026)_
 
 Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.
 
-<br>
+
 ## 💬 Languages
 
 🇺🇸 **English**: Native
 
 🇩🇪 **German**: B2
 
-<br>
+
 ## 👩🏼‍🎓 Education
 
 Advanced studies in Philosophy  
@@ -94,7 +94,7 @@ Advanced studies in Philosophy
 Studies in Computer Engineering  
 [Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_
 
-<br>
+
 ## 🏆 Honors / Awards / Volunteering
 
 **Panelist and Speaker**, [Responsible Research](https://www.responsibleresearch.graduatecenter.uni-muenchen.de/event2021/index.html), Ludwig-Maximillians-Universität - Munich, 🇩🇪 Germany _(March 2021)_
