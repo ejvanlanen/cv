@@ -7,14 +7,13 @@ _Product Manager and Publisher based in Vienna 🇦🇹_ <br>
 
 **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) _(February 2022 - March 2024)_ <br>
 Peer reviewers make scientific publishing go, but they're overwhelmed with reviewing invitations and current platforms do little to support their work. I delivered a new platform that enabled Frontiers to attract reviewers without sending emails and developed an MVP platform to make reviewing more efficient. 
-- Conceived, prototyped, user tested, and delivered a platform to transform Frontiers's peer review invitation system.
-- This innovative, mobile-friendly platform attracted tens of thousands of users and increased invitation conversion 6x (to ~18%), speeding review time and improving the overall user experience at Frontiers.
- - Via a series of design sprints, co-created a vision and strategy to modernize Frontiers's peer review platform, the heart of its business.
- - Rallied support for this vision across the company and served as lead product manager for UX design, development, and implementation of its MVP.
- - 
- - Led two cross-functional teams of product managers; UX designers and researchers; frontend and backend engineers; architects; and other stakeholders.
- - Conducted market analysis, organized design sprints, led user research, built prototypes, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
- - Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
+- Conceived, prototyped, user tested, and delivered a platform ([Frontiers Discover](https://progressreport.frontiersin.org/innovation)) to transform Frontiers's peer review invitation system.
+- Innovative and mobile-friendly, Discover attracted tens of thousands of users, increased invitation conversion 6x (to ~18%), shortened review time, and improved the overall user experience at Frontiers.
+- Via a series of design sprints, co-created a vision and strategy to modernize Frontiers's aging peer review platform, the heart of its business.
+- Rallied support for the new reviewing platform across the company and served as lead product manager for UX design; frontend and backend development; software architecture; and final implementation of its MVP.
+- Led three cross-functional teams (~30 colleagues)—product managers; UX designers and researchers; frontend and backend engineers; architects and other business stakeholders—to deliver MVP.
+- Conducted market analysis, organized design sprints, led user research, built prototypes, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
+- Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
 <br><br>
 
 **Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) _(June 2019 - January 2022)_ <br>
