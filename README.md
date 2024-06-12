@@ -6,34 +6,35 @@ _Product Manager and Publisher based in Vienna 🇦🇹_ <br>
 ## 🧪 Product & Scientific Publishing Experience
 
 **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) _(February 2022 - March 2024)_ <br>
-Peer reviewers make scientific publishing go. But Frontiers had developed a reputation for 'spamming' researchers in pursuit of these reviewers. I conceived, prototyped, user tested, led a team of developers, and delivered a new way of business—without sending emails. This mobile-optimized platform converted 6x better (~18%) than email invitations, improving the overall user experience at Frontiers.
+Peer reviewers make scientific publishing go, but they're overwhelmed with reviewing invitations and current platforms do little to support their work. I delivered a new platform that enabled Frontiers to attract reviewers without sending emails and developed an MVP platform to make reviewing more efficient. 
+- Conceived, prototyped, user tested, and delivered a platform to transform Frontiers's peer review invitation system.
+- This innovative, mobile-friendly platform attracted tens of thousands of users and increased invitation conversion 6x (to ~18%), speeding review time and improving the overall user experience at Frontiers.
  - Via a series of design sprints, co-created a vision and strategy to modernize Frontiers's peer review platform, the heart of its business.
  - Rallied support for this vision across the company and served as lead product manager for UX design, development, and implementation of its MVP.
- - Created a vision to transform Frontiers's peer review invitation system, prototyping, user testing, and delivering two mobile-friendly, innovative products that attracted tens of thousands of users and increased invitation conversion 6x.
+ - 
  - Led two cross-functional teams of product managers; UX designers and researchers; frontend and backend engineers; architects; and other stakeholders.
  - Conducted market analysis, organized design sprints, led user research, built prototypes, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
  - Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
 <br><br>
 
 **Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) _(June 2019 - January 2022)_ <br>
-German research institutions are generally unhappy with the costs, and constraints, of scientific publishing. Leveraging the growing trend of preprints, I conceived a two-sided market for reviewing preprints, product managed the delivery of an MVP reviewing platform, and pursued grants and VC funding for the project.
-- Analyzed scientific publishing market to find space for building modern publishing workflows for researchers in Germany and around the world.
+German research institutions are generally unhappy with the costs, and constraints, of scientific publishing. Leveraging the growing trend of preprints, I created an MVP for a two-sided market for reviewing preprints.
+- Analyzed scientific publishing market to find space for modern publishing workflows for researchers in Germany and around the world.
 - Created product vision for a two-sided marketplace for the exchange and validation of scientific work, focusing on peer review as the key interaction.
-- Promoted this workflow across Helmholtz's 19 research centers, conducting user research and validating concept with users (~250).
-- Recruited and product managed external contractors to code (React/NodeJS) a MVP 'preprint review' platform.
-- Created web design for the platform and implemented the design using CSS.
-- Contributed Javascript fixes and minor functionality.
+- Promoted this workflow across Helmholtz's [19 research centers](https://www.helmholtz.de/en/about-us/helmholtz-centers/), conducting user research and validating concept with users.
+- Recruited and product managed external contractors to develop an MVP 'preprint review' platform, leveraging [bioRxiv](https://www.biorxiv.org/).
+- Created web design for the platform, implemented the design using Tailwind CSS, and contributed Javascript fixes and minor functionality.
 <br><br>
 
 **Senior Publisher / Publisher** @ [Elsevier GmbH](https://www.elsevier.com/) _(October 2014 - June 2019)_ <br>
-Researchers in Africa had a problem: communicating their science across borders was difficult. And Elsevier had a problem: their reputation amongst scientists was, on the whole, negative. Following extensive research—and travel to 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia—I created _Scientific African_ in partnership with the [Next Einstein Forum](https://nef.org/). Publishing across disciplines and at low cost, SciAf has created a critically valuable resource—thousands of scientific articles for, and by, researchers from Africa.
-- Developed and published _Scientific African_, the first Open Access megajournal for researchers in Africa.
+Researchers in Africa had a problem: communicating their science across borders was difficult. Following extensive research—and travel to 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia—I created _Scientific African_ in partnership with the [Next Einstein Forum](https://nef.org/).
+- Developed and published _Scientific African_, a critically valuable source of scientific information for, and by, researchers from Africa.
 - Developed and negotiated a partnership for _Scientific African_ with Kigali, Rwanda's Next Einstein Forum.
 - Launched _Scientific African_ with [Elsevier’s CEO](https://www.youtube.com/watch?v=ka__ldVfjOc) at the Next Einstein Forum Global Gathering in Kigali, Rwanda in March 2018. The launch was covered in [_CBC Radio_](https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-full-episode-1.4612977/often-sidelined-by-western-journals-african-scientists-get-their-own-peer-reviewed-publication-1.4612980), _Die Zeit_, _Frankfurter Allgemeine Zeitung_, _The Guardian_, _Le Monde_, and _Science_.
-- Managed a portfolio of Food Science and Oceanography journals, with total revenues of ~$16,000,000 USD.
-- Negotiated editorial, title, and society contracts, with a total annual operating budget of ~$1,000,000 USD.
-- Coordinated and managed conferences, including the Food Structure & Functionality Forum Symposium, EFFoST, EuroSense, the Food Chemistry Conference, the NIZO Dairy Conference, and Pangborn.
-- Actively managed 35 Editors-in-Chief, helping them achieve growth and quality targets by providing technical, publishing, and strategic support.
+- Managed a portfolio of Food Science and Oceanography journals, with total revenues of >$16,000,000 USD.
+- Negotiated editorial, title, and society contracts, with a total annual operating budget of >$1,000,000 USD.
+- Coordinated and managed conferences, including the [Food Structure & Functionality Forum Symposium](https://www.elsevier.com/events/conferences/all/food-structure-and-functionality-forum-symposium), [EFFoST](https://effostconference.com/), [EuroSense](https://eurosense.elsevier.com/), the [Food Chemistry Conference](https://www.elsevier.com/events/conferences/all/food-chemistry-conference), the [NIZO Dairy Conference](https://www.nizodairyconference.com/), and the Pangborn Sensory Science Symposium](https://www.pangbornsymposium.com/).
+- Actively managed scores of Editors-in-Chief, helping them achieve growth and quality targets for their journals by providing technical, publishing, and strategic support.
 - Represented Elsevier at international scientific conferences, including the [Planet Earth Institute](https://planetearthinstitute.org.uk/'s) UnConference (2015, London, UK); the [UN Economic Commission for Africa](https://www.uneca.org/'s) Senior Experts Dialogue (2015, Nairobi, Kenya); and the Next Einstein Forum’s Global Gathering (2016, Dakar, Senegal).
 
 <br><br>
@@ -42,7 +43,7 @@ Researchers in Africa had a problem: communicating their science across borders 
 
 **Founder & Publisher** @ [Frisch & Co. Ebooks](http://web.archive.org/web/20140707074238/http://frischand.co/)) _(September 2012 - May 2016)_ <br>
 At heart, I'm a reader, especially of literature from outside the English-speaking world. I founded Frisch & Co. to publish translated fiction by taking advantage of the efficiencies inherent in the emerging ebook market. 
-- Created unique publishing partnerships with [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 Edizioni Nottetempo(https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
+- Created unique publishing partnerships with [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
 - Scouted, acquired, and edited the press's ebooks, and worked closely with translators to produce clear, readable, and vibrant texts.
 - Secured funding from government arts institutions in 🇩🇪 Germany, 🇦🇹 Austria, and 🇦🇷 Argentina.
 - Secured ebook distribution on Amazon Kindle, Apple Books, Google Play Books, and other outlets through [Faber Factory](https://faberfactory.co.uk/).
