@@ -100,27 +100,27 @@ Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬
 
 **Board Member**, Annals of African Surgery - Nairobi, 🇰🇪 Kenya _(December 2016)_
 
-**Volunteer**, Annals of African Surgery / Researchers without Borders - Nairobi, 🇰🇪 Kenya _(November - December 2016)_
+**Volunteer**, Annals of African Surgery / [Research without Borders](https://elsevierfoundation.org/partnerships/research-in-developing-countries/research-without-borders/) - Nairobi, 🇰🇪 Kenya _(November - December 2016)_
 
-**Panelist**, "Meet the Publishers", The London Book Fair - London, 🇬🇧 UK _(April 2014)_
+**Panelist**, "Meet the Publishers", [The London Book Fair](https://www.londonbookfair.co.uk/en-gb.html) - London, 🇬🇧 UK _(April 2014)_
 
-**Panelist**,  "Bridging the Gap: Bringing Together US and UK Translation Communities", The Society of Authors - London, 🇬🇧 UK _(April 2014)_
+**Panelist**,  "Bridging the Gap: Bringing Together US and UK Translation Communities", [The Society of Authors](https://www2.societyofauthors.org/) - London, 🇬🇧 UK _(April 2014)_
 
-**Panelist**, Kongress "Literatur Digital", Haus der Kulturen der Welt - Berlin, 🇩🇪 Germany _(March 2014)_
+**Panelist**, [Kongress "Literatur Digital"](https://archiv.hkw.de/de/programm/projekte/veranstaltung/p_100601.php), Haus der Kulturen der Welt - Berlin, 🇩🇪 Germany _(March 2014)_
 
-**Fellow**, Più Libri Più Liberi Book Fair - Rome, 🇮🇹 Italy _(December 2013)_
+**Fellow**, [Più Libri Più Liberi Book Fair](https://plpl.it/piu-libri-piu-liberi-en/) - Rome, 🇮🇹 Italy _(December 2013)_
 
-**Panelist**, "Paths to Publishing" - Berlin, 🇩🇪 Germany _(May 2013)_
+**Panelist**, [Paths to Publishing Conference](https://blog.berlin.bard.edu/conference-paths-publishing-notes-middle-journey/) - Berlin, 🇩🇪 Germany _(May 2013)_
 
-**Fellow**, Sharjah International Book Fair - Sharjah, 🇦🇪 UAE _(November 2011)_
+**Fellow**, [Sharjah International Book Fair](https://www.sibf.com/en/home) - Sharjah, 🇦🇪 UAE _(November 2011)_
 
-**Fellow**, FILI Editor's Trip - Helsinki, 🇫🇮 Finland _(August 2010)_
+**Fellow**, [Finnish Literature Exchange](https://fili.fi/en/) Editor's Trip - Helsinki, 🇫🇮 Finland _(August 2010)_
 
-**Fellow**, Più Libri Più Liberi Book Fair - Rome, 🇮🇹 Italy _(December 2010)_
+**Fellow**, [Più Libri Più Liberi Book Fair](https://plpl.it/piu-libri-piu-liberi-en/) - Rome, 🇮🇹 Italy _(December 2010)_
 
-**Judge**, Best Translated Book Award - (December 2009)
+**Judge**, [Best Translated Book Award](https://en.wikipedia.org/wiki/Best_Translated_Book_Award) - (December 2009)
 
-**Fellow**, Frankfurt Book Fair - Frankfurt, 🇩🇪 Germany _(September 2008)_
+**Fellow**, [Frankfurt Book Fair](https://www.buchmesse.de/en) - Frankfurt, 🇩🇪 Germany _(September 2008)_
 
-**Fellow**, Norwegian Festival of Literature - Lillehammer, 🇳🇴 Norway _(May 2008)_
+**Fellow**, [Norwegian Festival of Literature](https://litteraturfestival.no/en/) - Lillehammer, 🇳🇴 Norway _(May 2008)_
 
