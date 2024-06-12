@@ -4,7 +4,7 @@ _Product Manager and Publisher_<br>
 _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_<br>
 [ej@pm.me](mailto:ej@pm.me) / [linkedin.com/in/ejvanlanen/](https://www.linkedin.com/in/ejvanlanen/) / [Online CV](https://ejvanlanen.github.io/cv)
 
-## 🧪 Product & Scientific Publishing Experience
+## Work Experience
 
 ### **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org)
 _Vienna, 🇦🇹 Austria (February 2022 - March 2024)_
@@ -40,9 +40,6 @@ Researchers in Africa had a problem: communicating their science was difficult. 
 - Coordinated and managed conferences, including the [Food Structure & Functionality Forum Symposium](https://www.elsevier.com/events/conferences/all/food-structure-and-functionality-forum-symposium), [EFFoST](https://effostconference.com/), [EuroSense](https://eurosense.elsevier.com/), the [Food Chemistry Conference](https://www.elsevier.com/events/conferences/all/food-chemistry-conference), the [NIZO Dairy Conference](https://www.nizodairyconference.com/), and the [Pangborn Sensory Science Symposium](https://www.pangbornsymposium.com/).
 - Actively managed scores of Editors-in-Chief, helping them achieve growth and quality targets for their journals by providing technical, publishing, and strategic support.
 - Represented Elsevier at international scientific conferences, including the [Planet Earth Institute](https://planetearthinstitute.org.uk/'s) UnConference (2015, London, UK); the [UN Economic Commission for Africa](https://www.uneca.org/'s) Senior Experts Dialogue (2015, Nairobi, Kenya); and the Next Einstein Forum’s Global Gathering (2016, Dakar, Senegal).
-<br>
-
-## 📚 Book Publishing Experience
 
 ### **Founder & Publisher** @ [Frisch & Co. Ebooks](http://web.archive.org/web/20140707074238/http://frischand.co/)  
 _Berlin, 🇩🇪 Germany (September 2012 - May 2016)_
