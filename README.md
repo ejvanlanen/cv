@@ -101,9 +101,9 @@ Studies in Computer Engineering
 
 **Workshop Leader**, African Journals Partnership Program Annual Meeting - Addis Ababa, 🇪🇹 Ethiopia _(September 2018)_
 
-**Board Member**, Annals of African Surgery - Nairobi, 🇰🇪 Kenya _(December 2016)_
+**Board Member**, [The Annals of African Surgery](http://web.archive.org/web/20170610211003/http://www.annalsofafricansurgery.com/) - Nairobi, 🇰🇪 Kenya _(December 2016)_
 
-**Volunteer**, Annals of African Surgery / [Research without Borders](https://elsevierfoundation.org/partnerships/research-in-developing-countries/research-without-borders/) - Nairobi, 🇰🇪 Kenya _(November - December 2016)_
+**Volunteer**, The Annals of African Surgery / [Research without Borders](https://elsevierfoundation.org/partnerships/research-in-developing-countries/research-without-borders/) - Nairobi, 🇰🇪 Kenya _(November - December 2016)_
 
 **Panelist**, "Meet the Publishers", [The London Book Fair](https://www.londonbookfair.co.uk/en-gb.html) - London, 🇬🇧 UK _(April 2014)_
 
