@@ -4,7 +4,6 @@ _Product Manager and Publisher_<br>
 _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_<br>
 [Email](mailto:ej@pm.me) / [LinkedIn](https://www.linkedin.com/in/ejvanlanen/) / [This CV](https://ejvanlanen.github.io/cv)
 
-<br><br>
 ## 🧪 Product & Scientific Publishing Experience
 
 ### **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org)  
