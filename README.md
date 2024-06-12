@@ -4,14 +4,17 @@ _Product Manager and Publisher based in Vienna 🇦🇹_ <br>
 [Email](mailto:ej@pm.me) / [LinkedIn](https://www.linkedin.com/in/ejvanlanen/) / [This CV](https://ejvanlanen.github.io/cv)
 
 ## 🔨 Experience
-🧑🏽‍🔬**Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) _(February 2022 - March 2024)_ <br>
+**Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) _(February 2022 - March 2024)_ <br>
 Delivered delightfully impactful, first-of-its-kind peer review invitation platorm, Frontiers Discover.
  - A rapidly-growing scientific publisher, Frontiers had developed a reputation for 'spamming' its users. I conceived, prototyped, user tested, led a team of developers, and delivered a new way of securing peer reviewers—the oil in the engine of the business—without sending emails. This mobile-optimized platform converted 6x better (~18%) than typical invitations, rescuing Frontiers, and its users, from hundreds of thousands of unnecessary annoyances.
- - 
-**Used**: 
+ - Co-created vision to modernize Frontiers's peer review platform, rallied support for this vision across the company, and served as lead product manager for development and implementation of its MVP.
+ - Created a vision to transform Frontiers's peer review invitation system, delivering two innovative products that attracted tens of thousands of users and increased invitation conversion 6x.
+ - Led two cross-functional teams of product managers; UX designers and researchers; frontend and backend engineers; architects; and other stakeholders.
+ - Conducted market analysis, organized design sprints, led user research, built prototypes, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
+ - Managed product roadmaps, backlogs, and sprint planning to ensure the timely delivery of features, fixes, and enhancements. 
 <br><br>
 
-🧑🏽‍🔬**Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) _(June 2019 - January 2022)_ <br>
+**Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) _(June 2019 - January 2022)_ <br>
 
 
 <br><br>
