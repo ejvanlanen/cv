@@ -1,13 +1,14 @@
 # EJ van Lanen
 Vienna, Austria    
-ej@pm.me  
+[ej@pm.me](mailto:ej@pm.me)  
 +43 670 602 6055  
+[linkedin.com/in/ejvanlanen/](https://www.linkedin.com/in/ejvanlanen/)
+
 
 ### _Product Manager and Publisher_<br>
 _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_<br>
-[ej@pm.me](mailto:ej@pm.me) | +43 670 602 6055 | [linkedin.com/in/ejvanlanen/](https://www.linkedin.com/in/ejvanlanen/) | [Online CV](https://ejvanlanen.github.io/cv)
 
-## Work Experience
+## WORK EXPERIENCE
 
 ### **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org)
 _Vienna, 🇦🇹 Austria (February 2022 - March 2024)_
@@ -67,14 +68,14 @@ _New York, NY, 🇺🇸 USA (March 2001 - June 2026)_
 Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.<br><br>
 
 
-## 💬 Languages
+## 💬 LANGUAGES
 
 🇺🇸 **English**: Native
 
 🇩🇪 **German**: B2<br><br>
 
 
-## 👩🏼‍🎓 Education
+## 👩🏼‍🎓 EDUCATION
 
 Advanced studies in Philosophy  
 [New School University](https://www.newschool.edu/) - New York, NY, USA _(2000 - 2001)_
@@ -89,7 +90,7 @@ Studies in Computer Engineering
 [Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_<br><br>
 
 
-## 🏆 Honors / Awards / Volunteering
+## 🏆 HONORS + VOLUNTEERING
 
 **Panelist and Speaker**, [Responsible Research](https://www.responsibleresearch.graduatecenter.uni-muenchen.de/event2021/index.html), Ludwig-Maximillians-Universität - Munich, 🇩🇪 Germany _(March 2021)_
 
