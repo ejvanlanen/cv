@@ -1,6 +1,6 @@
 # EJ van Lanen
 
-_Product Manager and Publisher_<br>
+### _Product Manager and Publisher_<br>
 _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_<br>
 [ej@pm.me](mailto:ej@pm.me) |  | +43 670 602 6055 | [linkedin.com/in/ejvanlanen/](https://www.linkedin.com/in/ejvanlanen/) | [Online CV](https://ejvanlanen.github.io/cv)
 
@@ -32,12 +32,10 @@ German research institutions are generally unhappy with the costs, and constrain
 _Berlin, 🇩🇪 Germany (October 2014 - June 2019)_
 
 Researchers in Africa had a problem: communicating their science was difficult. Following extensive discussions with researchers and stakeholders on the continent—including in 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia—I created _Scientific African_ in partnership with the [Next Einstein Forum](https://nef.org/).
-- Developed and published _Scientific African_, a critically valuable source of scientific information for, and by, researchers from Africa.
-- Developed and negotiated a partnership for _Scientific African_ with Kigali, Rwanda's Next Einstein Forum.
+- Developed, bulit a partnership for and published _Scientific African_, a critically valuable source of scientific information for, and by, researchers from Africa.
 - Launched _Scientific African_ with [Elsevier’s CEO](https://www.youtube.com/watch?v=ka__ldVfjOc) at the Next Einstein Forum Global Gathering in Kigali, Rwanda in March 2018. Covered in [_CBC Radio_](https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-full-episode-1.4612977/often-sidelined-by-western-journals-african-scientists-get-their-own-peer-reviewed-publication-1.4612980), _Die Zeit_, _Frankfurter Allgemeine Zeitung_, _The Guardian_, _Le Monde_, and _Science_.
 - Managed a portfolio of Food Science and Oceanography journals, with annual revenues of >$16,000,000 USD and an annual operating budget of >$1,000,000 USD.
-- Coordinated and managed conferences, including the [Food Structure & Functionality Forum Symposium](https://www.elsevier.com/events/conferences/all/food-structure-and-functionality-forum-symposium), [EFFoST](https://effostconference.com/), [EuroSense](https://eurosense.elsevier.com/), the [Food Chemistry Conference](https://www.elsevier.com/events/conferences/all/food-chemistry-conference), the [NIZO Dairy Conference](https://www.nizodairyconference.com/), and the [Pangborn Sensory Science Symposium](https://www.pangbornsymposium.com/).
-- Actively managed scores of Editors-in-Chief, helping them achieve growth and quality targets for their journals by providing technical, publishing, and strategic support.
+- Actively managed scores of Editors-in-Chief from dozens of countries, helping them achieve growth and quality targets for their journals by providing technical, publishing, and strategic support.
 - Represented Elsevier at international scientific conferences, including the [Planet Earth Institute](https://planetearthinstitute.org.uk/'s) UnConference (2015, London, UK); the [UN Economic Commission for Africa](https://www.uneca.org/'s) Senior Experts Dialogue (2015, Nairobi, Kenya); and the Next Einstein Forum’s Global Gathering (2016, Dakar, Senegal).
 
 ### **Founder & Publisher** @ [Frisch & Co. Ebooks](http://web.archive.org/web/20140707074238/http://frischand.co/)  
