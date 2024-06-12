@@ -34,9 +34,8 @@ _Berlin, 🇩🇪 Germany (October 2014 - June 2019)_
 Researchers in Africa had a problem: communicating their science was difficult. Following extensive discussions with researchers and stakeholders on the continent—including in 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia—I created _Scientific African_ in partnership with the [Next Einstein Forum](https://nef.org/).
 - Developed and published _Scientific African_, a critically valuable source of scientific information for, and by, researchers from Africa.
 - Developed and negotiated a partnership for _Scientific African_ with Kigali, Rwanda's Next Einstein Forum.
-- Launched _Scientific African_ with [Elsevier’s CEO](https://www.youtube.com/watch?v=ka__ldVfjOc) at the Next Einstein Forum Global Gathering in Kigali, Rwanda in March 2018. The launch was covered in [_CBC Radio_](https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-full-episode-1.4612977/often-sidelined-by-western-journals-african-scientists-get-their-own-peer-reviewed-publication-1.4612980), _Die Zeit_, _Frankfurter Allgemeine Zeitung_, _The Guardian_, _Le Monde_, and _Science_.
-- Managed a portfolio of Food Science and Oceanography journals, with total revenues of >$16,000,000 USD.
-- Negotiated editorial, title, and society contracts, with a total annual operating budget of >$1,000,000 USD.
+- Launched _Scientific African_ with [Elsevier’s CEO](https://www.youtube.com/watch?v=ka__ldVfjOc) at the Next Einstein Forum Global Gathering in Kigali, Rwanda in March 2018. Covered in [_CBC Radio_](https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-full-episode-1.4612977/often-sidelined-by-western-journals-african-scientists-get-their-own-peer-reviewed-publication-1.4612980), _Die Zeit_, _Frankfurter Allgemeine Zeitung_, _The Guardian_, _Le Monde_, and _Science_.
+- Managed a portfolio of Food Science and Oceanography journals, with annual revenues of >$16,000,000 USD and an annual operating budget of >$1,000,000 USD.
 - Coordinated and managed conferences, including the [Food Structure & Functionality Forum Symposium](https://www.elsevier.com/events/conferences/all/food-structure-and-functionality-forum-symposium), [EFFoST](https://effostconference.com/), [EuroSense](https://eurosense.elsevier.com/), the [Food Chemistry Conference](https://www.elsevier.com/events/conferences/all/food-chemistry-conference), the [NIZO Dairy Conference](https://www.nizodairyconference.com/), and the [Pangborn Sensory Science Symposium](https://www.pangbornsymposium.com/).
 - Actively managed scores of Editors-in-Chief, helping them achieve growth and quality targets for their journals by providing technical, publishing, and strategic support.
 - Represented Elsevier at international scientific conferences, including the [Planet Earth Institute](https://planetearthinstitute.org.uk/'s) UnConference (2015, London, UK); the [UN Economic Commission for Africa](https://www.uneca.org/'s) Senior Experts Dialogue (2015, Nairobi, Kenya); and the Next Einstein Forum’s Global Gathering (2016, Dakar, Senegal).
@@ -46,12 +45,9 @@ _Berlin, 🇩🇪 Germany (September 2012 - May 2016)_
 
 At heart, I'm a reader, especially of literature from outside the English-speaking world. I founded Frisch & Co. to publish translated fiction by taking advantage of the efficiencies inherent in the emerging ebook market. 
 - Created unique publishing partnerships with 🇧🇷 [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
-- Scouted, acquired, and edited the press's ebooks, and worked closely with translators to produce clear, readable, and vibrant texts.
 - Secured funding from government arts institutions in 🇩🇪 Germany, 🇦🇹 Austria, and 🇦🇷 Argentina.
 - Secured ebook distribution on Amazon Kindle, Apple Books, Google Play Books, and other outlets through [Faber Factory](https://faberfactory.co.uk/).
 - Produced Frisch & Co.'s Epubs, using a Markdown-based workflow and outputting via [Pandoc](https://www.pandoc.org/).
-- Coordinated and implemented media and marketing strategy for the press.
-- Designed and developed the press's website.
 
 ### **Co-founder and Editor** @ [Open Letter Books](http://openletterbooks.org)  
 _Rochester, NY, 🇺🇸 USA (January 2007 - August 2012)_
