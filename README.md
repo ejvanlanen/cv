@@ -1,7 +1,7 @@
 # EJ van Lanen
-Vienna, Austria
-ej@pm.me
-+43 670 602 6055
+Vienna, Austria    
+ej@pm.me  
++43 670 602 6055  
 
 ### _Product Manager and Publisher_<br>
 _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_<br>
