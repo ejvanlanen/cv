@@ -1,4 +1,4 @@
-# EJ van Lanen
+# ![](https://avatars.githubusercontent.com/u/172479670?s=400&u=b0b3c603fb9789292e01ff2816bf88fdec40fe83&v=4) EJ van Lanen
 
 _Product Manager and Publisher_<br>
 _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_<br>
