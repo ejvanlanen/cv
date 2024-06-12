@@ -3,15 +3,16 @@ _Product Manager and Publisher based in Vienna 🇦🇹_ <br>
 
 [Email](mailto:ej@pm.me) / [LinkedIn](https://www.linkedin.com/in/ejvanlanen/) / [This CV](https://ejvanlanen.github.io/cv)
 
-## 🧪 Scientific Publishing Experience
+## 🧪 Product & Scientific Publishing Experience
 
 **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) _(February 2022 - March 2024)_ <br>
-Securing peer reviewers is the oil in the engine of the scientific publishing. Frontiers had developed a reputation for 'spamming' researchers in pursuit of these reviewers. I conceived, prototyped, user tested, led a team of developers, and delivered a new way of business—without sending emails. This mobile-optimized platform converted 6x better (~18%) than email invitations, improving the overall user experience at Frontiers.
- - Co-created vision to modernize Frontiers's peer review platform, rallied support for this vision across the company, and served as lead product manager for development and implementation of its MVP.
- - Created a vision to transform Frontiers's peer review invitation system, delivering two innovative products that attracted tens of thousands of users and increased invitation conversion 6x.
+Peer reviewers make scientific publishing go. But Frontiers had developed a reputation for 'spamming' researchers in pursuit of these reviewers. I conceived, prototyped, user tested, led a team of developers, and delivered a new way of business—without sending emails. This mobile-optimized platform converted 6x better (~18%) than email invitations, improving the overall user experience at Frontiers.
+ - Via a series of design sprints, co-created a vision and strategy to modernize Frontiers's peer review platform, the heart of its business.
+ - Rallied support for this vision across the company and served as lead product manager for UX design, development, and implementation of its MVP.
+ - Created a vision to transform Frontiers's peer review invitation system, prototyping, user testing, and delivering two mobile-friendly, innovative products that attracted tens of thousands of users and increased invitation conversion 6x.
  - Led two cross-functional teams of product managers; UX designers and researchers; frontend and backend engineers; architects; and other stakeholders.
  - Conducted market analysis, organized design sprints, led user research, built prototypes, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
- - Managed product roadmaps, backlogs, and sprint planning to ensure the timely delivery of features, fixes, and enhancements. 
+ - Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
 <br><br>
 
 **Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) _(June 2019 - January 2022)_ <br>
@@ -22,7 +23,6 @@ German research institutions are generally unhappy with the costs, and constrain
 - Recruited and product managed external contractors to code (React/NodeJS) a MVP 'preprint review' platform.
 - Created web design for the platform and implemented the design using CSS.
 - Contributed Javascript fixes and minor functionality.
-
 <br><br>
 
 **Senior Publisher / Publisher** @ [Elsevier GmbH](https://www.elsevier.com/) _(October 2014 - June 2019)_ <br>
@@ -40,8 +40,9 @@ Researchers in Africa had a problem: communicating their science across borders 
 
 ## 📚 Book Publishing Experience
 
-**Founder & Publisher** @ [Frisch & Co. Ebooks](https://publishingperspectives.com/2016/05/translated-publisher-frisch-co-canelo/) _(September 2012 - May 2016)_ <br>
-At heart, I'm a reader, especially of literature from outside the English-speaking world. I founded Frisch & Co. to publish translated fiction by taking advantage of the efficiencies inherent in the emerging ebook market. To achieve this, I created unique partnerships with publishers from 🇧🇷 Brazil, 🇩🇪 Germany, 🇫🇮 Finland, the 🇳🇱 Netherlands, 🇮🇹 Italy, 🇸🇪 Sweden, and 🇪🇸 Spain. 
+**Founder & Publisher** @ [Frisch & Co. Ebooks](http://web.archive.org/web/20140707074238/http://frischand.co/)) _(September 2012 - May 2016)_ <br>
+At heart, I'm a reader, especially of literature from outside the English-speaking world. I founded Frisch & Co. to publish translated fiction by taking advantage of the efficiencies inherent in the emerging ebook market. 
+- Created unique publishing partnerships with [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 Edizioni Nottetempo(https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
 - Scouted, acquired, and edited the press's ebooks, and worked closely with translators to produce clear, readable, and vibrant texts.
 - Secured funding from government arts institutions in 🇩🇪 Germany, 🇦🇹 Austria, and 🇦🇷 Argentina.
 - Secured ebook distribution on Amazon Kindle, Apple Books, Google Play Books, and other outlets through [Faber Factory](https://faberfactory.co.uk/).
