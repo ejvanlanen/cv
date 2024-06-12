@@ -26,7 +26,7 @@ German research institutions are generally unhappy with the costs, and constrain
 <br><br>
 
 **Senior Publisher / Publisher** @ [Elsevier GmbH](https://www.elsevier.com/) _(October 2014 - June 2019)_ <br>
-Researchers in Africa had a problem: communicating their science was difficult. Following extensive research with researchers on the continent—and travel to 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia—I created _Scientific African_ in partnership with the [Next Einstein Forum](https://nef.org/).
+Researchers in Africa had a problem: communicating their science was difficult. Following extensive discussions with researchers and stakeholders on the continent—including 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia—I created _Scientific African_ in partnership with the [Next Einstein Forum](https://nef.org/).
 - Developed and published _Scientific African_, a critically valuable source of scientific information for, and by, researchers from Africa.
 - Developed and negotiated a partnership for _Scientific African_ with Kigali, Rwanda's Next Einstein Forum.
 - Launched _Scientific African_ with [Elsevier’s CEO](https://www.youtube.com/watch?v=ka__ldVfjOc) at the Next Einstein Forum Global Gathering in Kigali, Rwanda in March 2018. The launch was covered in [_CBC Radio_](https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-full-episode-1.4612977/often-sidelined-by-western-journals-african-scientists-get-their-own-peer-reviewed-publication-1.4612980), _Die Zeit_, _Frankfurter Allgemeine Zeitung_, _The Guardian_, _Le Monde_, and _Science_.
