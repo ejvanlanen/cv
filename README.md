@@ -5,7 +5,9 @@ _Product Manager and Publisher based in Vienna 🇦🇹_ <br>
 
 ## 🔨 Experience
 🧑🏽‍🔬**Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) _(February 2022 - March 2024)_ <br>
-A rapidly-growing scientific publisher, Frontiers had developed a reputation for 'spamming' its users. I conceived, prototyped, user tested, led a team of developers, and delivered a new way of securing peer reviewers—the oil in the engine of the business—without sending emails. This mobile-optimized platform converted 6x better (~18%) than typical invitations, rescuing Frontiers, and its users, from hundreds of thousands of unnecessary annoyances.
+Delivered delightfully impactful, first-of-its-kind peer review invitation platorm, Frontiers Discover.
+ - A rapidly-growing scientific publisher, Frontiers had developed a reputation for 'spamming' its users. I conceived, prototyped, user tested, led a team of developers, and delivered a new way of securing peer reviewers—the oil in the engine of the business—without sending emails. This mobile-optimized platform converted 6x better (~18%) than typical invitations, rescuing Frontiers, and its users, from hundreds of thousands of unnecessary annoyances.
+ - 
 **Used**: 
 <br><br>
 
