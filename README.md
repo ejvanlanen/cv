@@ -6,7 +6,7 @@ _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_<br>
 
 ## 🧪 Product & Scientific Publishing Experience
 
-### **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org)  
+### **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org)
 _Vienna, 🇦🇹 Austria (February 2022 - March 2024)_
 
 Peer reviewers make scientific publishing go, but they're overwhelmed with reviewing invitations and current platforms do little to support their work. I delivered a new platform that enabled Frontiers to attract reviewers without sending emails and developed an MVP platform to make reviewing more efficient. 
@@ -18,7 +18,7 @@ Peer reviewers make scientific publishing go, but they're overwhelmed with revie
 - Conducted market analysis, organized design sprints, led user research, built prototypes, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
 - Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
 
-### **Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en)  
+### **Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en)
 _Munich, 🇩🇪 Germany (June 2019 - January 2022)_
 
 German research institutions are generally unhappy with the costs, and constraints, of scientific publishing. Leveraging the growing trend of preprints, I created an MVP for a two-sided market for reviewing preprints.
