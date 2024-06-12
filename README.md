@@ -77,7 +77,7 @@ Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬
 
 🇺🇸 **English**: Native
 
-🇩🇪 **German**: B2<br>
+🇩🇪 **German**: B2<br><br>
 
 
 ## 👩🏼‍🎓 Education
@@ -92,7 +92,7 @@ Advanced studies in Philosophy
 [University of Wisconsin - Milwaukee](https://uwm.edu/) - Milwaukee, Wisconsin, USA _(1994 - 1997)_
 
 Studies in Computer Engineering  
-[Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_<br>
+[Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_<br><br>
 
 
 ## 🏆 Honors / Awards / Volunteering
