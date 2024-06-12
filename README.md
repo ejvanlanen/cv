@@ -2,7 +2,7 @@
 
 _Product Manager and Publisher_<br>
 _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_<br>
-[Email](mailto:ej@pm.me) / [LinkedIn](https://www.linkedin.com/in/ejvanlanen/) / [This CV](https://ejvanlanen.github.io/cv)
+[ej@pm.me](mailto:ej@pm.me) / [linkedin.com/in/ejvanlanen/](https://www.linkedin.com/in/ejvanlanen/) / [Online CV](https://ejvanlanen.github.io/cv)
 
 ## 🧪 Product & Scientific Publishing Experience
 
