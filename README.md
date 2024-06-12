@@ -19,7 +19,6 @@ Peer reviewers make scientific publishing go, but they're overwhelmed with revie
 - Led three cross-functional teams (~30 colleagues)—product managers; UX designers and researchers; frontend and backend engineers; architects and other business stakeholders—to deliver MVP and integrate with existing platform.
 - Conducted market analysis, organized design sprints, led user research, built prototypes, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
 - Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
-<br><br>
 
 **Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) 
 
@@ -31,10 +30,11 @@ German research institutions are generally unhappy with the costs, and constrain
 - Promoted this workflow across Helmholtz's [19 research centers](https://www.helmholtz.de/en/about-us/helmholtz-centers/), conducting user research and validating concept with users.
 - Recruited and product managed external contractors to develop an MVP 'preprint review' platform, leveraging [bioRxiv](https://www.biorxiv.org/).
 - Created web design for the platform, implemented the design using Tailwind CSS, and contributed Javascript fixes and minor functionality.
-<br><br>
 
-**Senior Publisher / Publisher** @ [Elsevier GmbH](https://www.elsevier.com/) 
-_Berlin, 🇩🇪 Germany (October 2014 - June 2019)_ <br>
+**Senior Publisher / Publisher** @ [Elsevier GmbH](https://www.elsevier.com/)
+
+_Berlin, 🇩🇪 Germany (October 2014 - June 2019)_
+
 Researchers in Africa had a problem: communicating their science was difficult. Following extensive discussions with researchers and stakeholders on the continent—including in 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia—I created _Scientific African_ in partnership with the [Next Einstein Forum](https://nef.org/).
 - Developed and published _Scientific African_, a critically valuable source of scientific information for, and by, researchers from Africa.
 - Developed and negotiated a partnership for _Scientific African_ with Kigali, Rwanda's Next Einstein Forum.
@@ -45,12 +45,12 @@ Researchers in Africa had a problem: communicating their science was difficult. 
 - Actively managed scores of Editors-in-Chief, helping them achieve growth and quality targets for their journals by providing technical, publishing, and strategic support.
 - Represented Elsevier at international scientific conferences, including the [Planet Earth Institute](https://planetearthinstitute.org.uk/'s) UnConference (2015, London, UK); the [UN Economic Commission for Africa](https://www.uneca.org/'s) Senior Experts Dialogue (2015, Nairobi, Kenya); and the Next Einstein Forum’s Global Gathering (2016, Dakar, Senegal).
 
-<br><br>
-
 ## 📚 Book Publishing Experience
 
 **Founder & Publisher** @ [Frisch & Co. Ebooks](http://web.archive.org/web/20140707074238/http://frischand.co/) 
-_Berlin, 🇩🇪 Germany (September 2012 - May 2016)_ <br>
+
+_Berlin, 🇩🇪 Germany (September 2012 - May 2016)_
+
 At heart, I'm a reader, especially of literature from outside the English-speaking world. I founded Frisch & Co. to publish translated fiction by taking advantage of the efficiencies inherent in the emerging ebook market. 
 - Created unique publishing partnerships with [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
 - Scouted, acquired, and edited the press's ebooks, and worked closely with translators to produce clear, readable, and vibrant texts.
@@ -60,14 +60,12 @@ At heart, I'm a reader, especially of literature from outside the English-speaki
 - Coordinated and implemented media and marketing strategy for the press.
 - Designed and developed the press's website.
 
-<br><br>
+**Co-founder and Editor** @ [Open Letter Books](http://openletterbooks.org)
 
-📖 **Co-founder and Editor** @ [Open Letter Books](http://openletterbooks.org) 
-_Rochester, NY, 🇺🇸 USA (January 2007 - August 2012)_ <br>
+_Rochester, NY, 🇺🇸 USA (January 2007 - August 2012)_
+
 With two colleagues, I co-founded Open Letter Books at the [University of Rochester](https://www.rochester.edu/). 
 - Acquired and edited ~50 book-length translations; designed Open Letter's book covers; and coded a CMS for the press's [website](http://web.archive.org/web/20111230014610/http://www.openletterbooks.org/) using Ruby on Rails.
-<br><br>
-
 
 📖 **Editor** @ [Dalkey Archive Press](https://www.dalkeyarchive.com/) 
 _Bloomington, IL, 🇺🇸 USA (July 2006 - December 2006)_ <br>
@@ -75,7 +73,7 @@ Designed and coded a CMS for the press's [website](http://web.archive.org/web/20
 <br><br>
 
 
-📖 **Assistant Editor / Marketing Manager** @ [HarperCollins Publishers](https://www.harpercollins.com/) 
+**Assistant Editor / Marketing Manager** @ [HarperCollins Publishers](https://www.harpercollins.com/) 
 _New York, NY, 🇺🇸 USA (March 2001 - June 2026)_ <br>
 Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.
 <br><br>
