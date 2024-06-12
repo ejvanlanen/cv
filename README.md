@@ -70,7 +70,7 @@ Designed and coded a CMS for the press's [website](http://web.archive.org/web/20
 ### **Assistant Editor / Marketing Manager** @ [HarperCollins Publishers](https://www.harpercollins.com/)  
 _New York, NY, 🇺🇸 USA (March 2001 - June 2026)_
 
-Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.<br>
+Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.<br><br>
 
 
 ## 💬 Languages
