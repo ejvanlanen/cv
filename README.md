@@ -49,7 +49,7 @@ Researchers in Africa had a problem: communicating their science was difficult. 
 _Berlin, 🇩🇪 Germany (September 2012 - May 2016)_
 
 At heart, I'm a reader, especially of literature from outside the English-speaking world. I founded Frisch & Co. to publish translated fiction by taking advantage of the efficiencies inherent in the emerging ebook market. 
-- Created unique publishing partnerships with [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
+- Created unique publishing partnerships with 🇧🇷 [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
 - Scouted, acquired, and edited the press's ebooks, and worked closely with translators to produce clear, readable, and vibrant texts.
 - Secured funding from government arts institutions in 🇩🇪 Germany, 🇦🇹 Austria, and 🇦🇷 Argentina.
 - Secured ebook distribution on Amazon Kindle, Apple Books, Google Play Books, and other outlets through [Faber Factory](https://faberfactory.co.uk/).
@@ -79,21 +79,19 @@ Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬
 
 🇩🇪 **German**: B2
 
-
 ## 👩🏼‍🎓 Education
 
-Advanced studies in Philosophy
+Advanced studies in Philosophy  
 [New School University](https://www.newschool.edu/) - New York, NY, USA _(2000 - 2001)_
 
-Advanced studies in Philosophy
+Advanced studies in Philosophy  
 [Ohio University](https://www.ohio.edu/) - Athens, OH, USA _(1998 - 2000)_
 
-**Bachelor of Arts** in Philosophy
+**Bachelor of Arts** in Philosophy  
 [University of Wisconsin - Milwaukee](https://uwm.edu/) - Milwaukee, Wisconsin, USA _(1994 - 1997)_
 
-Studies in Computer Engineering
+Studies in Computer Engineering  
 [Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_
-<br><br>
 
 ## 🏆 Honors / Awards / Volunteering
 
