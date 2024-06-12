@@ -95,9 +95,9 @@ Studies in Computer Engineering
 
 ## 🏆 Honors / Awards / Volunteering
 
-**Panelist and Speaker**, Responsible Research, Ludwig-Maximillians-Universität - Munich, 🇩🇪 Germany _(March 2021)_
+**Panelist and Speaker**, [Responsible Research](https://www.responsibleresearch.graduatecenter.uni-muenchen.de/event2021/index.html), Ludwig-Maximillians-Universität - Munich, 🇩🇪 Germany _(March 2021)_
 
-**Workshop Leader**, African Journals Partnership Program Annual Meeting - Addis Ababa, 🇪🇹 Ethiopia _(September 2018)_
+**Workshop Leader**, [African Journals Partnership Program](https://www.ajpp-online.org/) Annual Meeting - Addis Ababa, 🇪🇹 Ethiopia _(September 2018)_
 
 **Board Member**, [The Annals of African Surgery](http://web.archive.org/web/20170610211003/http://www.annalsofafricansurgery.com/) - Nairobi, 🇰🇪 Kenya _(December 2016)_
 
