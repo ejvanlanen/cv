@@ -2,7 +2,7 @@
 
 _Product Manager and Publisher_<br>
 _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_<br>
-[ej@pm.me](mailto:ej@pm.me) / [linkedin.com/in/ejvanlanen/](https://www.linkedin.com/in/ejvanlanen/) / [Online CV](https://ejvanlanen.github.io/cv)
+[ej@pm.me](mailto:ej@pm.me) |  | +43 670 602 6055 | [linkedin.com/in/ejvanlanen/](https://www.linkedin.com/in/ejvanlanen/) | [Online CV](https://ejvanlanen.github.io/cv)
 
 ## Work Experience
 
@@ -44,7 +44,7 @@ Researchers in Africa had a problem: communicating their science was difficult. 
 _Berlin, 🇩🇪 Germany (September 2012 - May 2016)_
 
 At heart, I'm a reader, especially of literature from outside the English-speaking world. I founded Frisch & Co. to publish translated fiction by taking advantage of the efficiencies inherent in the emerging ebook market. 
-- Created unique publishing partnerships with 🇧🇷 [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
+- Created 6 unique publishing partnerships, with 🇧🇷 [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
 - Secured funding from government arts institutions in 🇩🇪 Germany, 🇦🇹 Austria, and 🇦🇷 Argentina.
 - Secured ebook distribution on Amazon Kindle, Apple Books, Google Play Books, and other outlets through [Faber Factory](https://faberfactory.co.uk/).
 - Produced Frisch & Co.'s Epubs, using a Markdown-based workflow and outputting via [Pandoc](https://www.pandoc.org/).
