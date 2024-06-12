@@ -70,14 +70,14 @@ Designed and coded a CMS for the press's [website](http://web.archive.org/web/20
 ### **Assistant Editor / Marketing Manager** @ [HarperCollins Publishers](https://www.harpercollins.com/)  
 _New York, NY, 🇺🇸 USA (March 2001 - June 2026)_
 
-Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.
+Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.<br>
 
 
 ## 💬 Languages
 
 🇺🇸 **English**: Native
 
-🇩🇪 **German**: B2
+🇩🇪 **German**: B2<br>
 
 
 ## 👩🏼‍🎓 Education
@@ -92,7 +92,7 @@ Advanced studies in Philosophy
 [University of Wisconsin - Milwaukee](https://uwm.edu/) - Milwaukee, Wisconsin, USA _(1994 - 1997)_
 
 Studies in Computer Engineering  
-[Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_
+[Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_<br>
 
 
 ## 🏆 Honors / Awards / Volunteering
