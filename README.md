@@ -5,16 +5,16 @@ ej@pm.me
 
 ### _Product Manager and Publisher_<br>
 _🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_<br>
-[ej@pm.me](mailto:ej@pm.me) |  | +43 670 602 6055 | [linkedin.com/in/ejvanlanen/](https://www.linkedin.com/in/ejvanlanen/) | [Online CV](https://ejvanlanen.github.io/cv)
+[ej@pm.me](mailto:ej@pm.me) | +43 670 602 6055 | [linkedin.com/in/ejvanlanen/](https://www.linkedin.com/in/ejvanlanen/) | [Online CV](https://ejvanlanen.github.io/cv)
 
 ## Work Experience
 
 ### **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org)
 _Vienna, 🇦🇹 Austria (February 2022 - March 2024)_
 
-Peer reviewers make scientific publishing go, but they're overwhelmed with reviewing invitations and current platforms do little to support their work. I delivered a new platform that enabled Frontiers to attract reviewers without sending emails and developed an MVP platform to make reviewing more efficient. 
+Peer reviewers make scientific publishing go, but they're overwhelmed with invitations and current platforms don't support their work. I delivered both a platform that enabled Frontiers to attract reviewers without sending emails and an MVP platform to make reviewing more efficient. 
 - Conceived, prototyped, user tested, and delivered a platform ([Frontiers Discover](https://progressreport.frontiersin.org/innovation)) to transform Frontiers's peer review invitation system.
-- Innovative and mobile-friendly, Discover attracted tens of thousands of users, increased invitation conversion 6x (to ~18%), shortened review time, and improved the overall user experience at Frontiers.
+- Innovative and mobile-friendly, Discover attracted tens of thousands of users, boosted invitation conversion 6x (to ~18%), shortened review time by ~7 days, and improved the overall user experience at Frontiers.
 - Via a series of design sprints, co-created a vision and strategy to modernize Frontiers's aging peer review platform, the heart of its business.
 - Rallied support for the new reviewing platform across the company and served as lead product manager for implementation of its MVP.
 - Led three cross-functional teams (~30 colleagues)—product managers; UX designers and researchers; frontend and backend engineers; architects, and other business stakeholders—to deliver review platform MVP and integrate with existing platform.
