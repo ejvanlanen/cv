@@ -1,11 +1,12 @@
 # EJ van Lanen
-_Product Manager and Publisher based in Vienna 🇦🇹_ <br>
+_Product Manager and Publisher_
+_🇺🇸 US-born, 🇩🇪 German-citizen, based in 🇦🇹 Vienna_ <br>
 
 [Email](mailto:ej@pm.me) / [LinkedIn](https://www.linkedin.com/in/ejvanlanen/) / [This CV](https://ejvanlanen.github.io/cv)
 
 ## 🧪 Product & Scientific Publishing Experience
 
-**Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) _(February 2022 - March 2024)_ <br>
+**Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) _Vienna, 🇦🇹 Austria (February 2022 - March 2024)_ <br>
 Peer reviewers make scientific publishing go, but they're overwhelmed with reviewing invitations and current platforms do little to support their work. I delivered a new platform that enabled Frontiers to attract reviewers without sending emails and developed an MVP platform to make reviewing more efficient. 
 - Conceived, prototyped, user tested, and delivered a platform ([Frontiers Discover](https://progressreport.frontiersin.org/innovation)) to transform Frontiers's peer review invitation system.
 - Innovative and mobile-friendly, Discover attracted tens of thousands of users, increased invitation conversion 6x (to ~18%), shortened review time, and improved the overall user experience at Frontiers.
@@ -16,7 +17,7 @@ Peer reviewers make scientific publishing go, but they're overwhelmed with revie
 - Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
 <br><br>
 
-**Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) _(June 2019 - January 2022)_ <br>
+**Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) _Munich, 🇩🇪 Germany (June 2019 - January 2022)_ <br>
 German research institutions are generally unhappy with the costs, and constraints, of scientific publishing. Leveraging the growing trend of preprints, I created an MVP for a two-sided market for reviewing preprints.
 - Analyzed scientific publishing market to find space for modern publishing workflows for researchers in Germany and around the world.
 - Created product vision for a two-sided marketplace for the exchange and validation of scientific work, focusing on peer review as the key interaction.
@@ -25,8 +26,8 @@ German research institutions are generally unhappy with the costs, and constrain
 - Created web design for the platform, implemented the design using Tailwind CSS, and contributed Javascript fixes and minor functionality.
 <br><br>
 
-**Senior Publisher / Publisher** @ [Elsevier GmbH](https://www.elsevier.com/) _(October 2014 - June 2019)_ <br>
-Researchers in Africa had a problem: communicating their science was difficult. Following extensive discussions with researchers and stakeholders on the continent—including 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia—I created _Scientific African_ in partnership with the [Next Einstein Forum](https://nef.org/).
+**Senior Publisher / Publisher** @ [Elsevier GmbH](https://www.elsevier.com/) _Berlin, 🇩🇪 Germany (October 2014 - June 2019)_ <br>
+Researchers in Africa had a problem: communicating their science was difficult. Following extensive discussions with researchers and stakeholders on the continent—including in 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia—I created _Scientific African_ in partnership with the [Next Einstein Forum](https://nef.org/).
 - Developed and published _Scientific African_, a critically valuable source of scientific information for, and by, researchers from Africa.
 - Developed and negotiated a partnership for _Scientific African_ with Kigali, Rwanda's Next Einstein Forum.
 - Launched _Scientific African_ with [Elsevier’s CEO](https://www.youtube.com/watch?v=ka__ldVfjOc) at the Next Einstein Forum Global Gathering in Kigali, Rwanda in March 2018. The launch was covered in [_CBC Radio_](https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-full-episode-1.4612977/often-sidelined-by-western-journals-african-scientists-get-their-own-peer-reviewed-publication-1.4612980), _Die Zeit_, _Frankfurter Allgemeine Zeitung_, _The Guardian_, _Le Monde_, and _Science_.
@@ -40,7 +41,7 @@ Researchers in Africa had a problem: communicating their science was difficult. 
 
 ## 📚 Book Publishing Experience
 
-**Founder & Publisher** @ [Frisch & Co. Ebooks](http://web.archive.org/web/20140707074238/http://frischand.co/)) _(September 2012 - May 2016)_ <br>
+**Founder & Publisher** @ [Frisch & Co. Ebooks](http://web.archive.org/web/20140707074238/http://frischand.co/)) _Berlin, 🇩🇪 Germany (September 2012 - May 2016)_ <br>
 At heart, I'm a reader, especially of literature from outside the English-speaking world. I founded Frisch & Co. to publish translated fiction by taking advantage of the efficiencies inherent in the emerging ebook market. 
 - Created unique publishing partnerships with [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
 - Scouted, acquired, and edited the press's ebooks, and worked closely with translators to produce clear, readable, and vibrant texts.
@@ -52,24 +53,19 @@ At heart, I'm a reader, especially of literature from outside the English-speaki
 
 <br><br>
 
-📖 **Co-founder and Editor** @ [Open Letter Books](http://openletterbooks.org) _(January 2007 - August 2012)_ <br>
-With two colleagues, I co-founded Open Letter Books at the University of Rochester, in Rochester, NY, USA. 
-- Acquired and edited ~50 book-length translations.
-- Designed Open Letter's book covers and website.
-- Designed and coded a CMS for http://openletterbooks.org using Ruby on Rails.
-
+📖 **Co-founder and Editor** @ [Open Letter Books](http://openletterbooks.org) _Rochester, NY, 🇺🇸 USA (January 2007 - August 2012)_ <br>
+With two colleagues, I co-founded Open Letter Books at the [University of Rochester](https://www.rochester.edu/). 
+- Acquired and edited ~50 book-length translations; designed Open Letter's book covers; and coded a CMS for the press's [website](http://web.archive.org/web/20111230014610/http://www.openletterbooks.org/) using Ruby on Rails.
 <br><br>
 
 
-📖 **Editor** @ [Dalkey Archive Press](https://www.dalkeyarchive.com/) _(July 2006 - December 2006)_ <br>
-Designed and coded a CMS for the press using Ruby on Rails and edited several book-length translations.
-
+📖 **Editor** @ [Dalkey Archive Press](https://www.dalkeyarchive.com/) _Bloomington, IL, 🇺🇸 USA (July 2006 - December 2006)_ <br>
+Designed and coded a CMS for the press's [website](http://web.archive.org/web/20061213083458/http://www.dalkeyarchive.com/) using Ruby on Rails and edited several book-length translations.
 <br><br>
 
 
-📖 **Assistant Editor / Marketing Manager** @ [HarperCollins Publishers](https://www.harpercollins.com/) _(March 2001 - June 2026)_ <br>
+📖 **Assistant Editor / Marketing Manager** @ [HarperCollins Publishers](https://www.harpercollins.com/) _ New York, NY, 🇺🇸 USA (March 2001 - June 2026)_ <br>
 Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.
-
 <br><br>
 
 ## 💬 Languages
@@ -80,16 +76,16 @@ Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬
 
 ## 👩🏼‍🎓 Education
 
-**Studies** in Philosophy<br>
+Advanced studies in Philosophy<br>
 [New School University](https://www.newschool.edu/) - New York, NY, USA _(2000 - 2001)_
 
-**Studies** in Philosophy<br>
+Advanced studies in Philosophy<br>
 [Ohio University](https://www.ohio.edu/) - Athens, OH, USA _(1998 - 2000)_
 
 **Bachelor of Arts** in Philosophy<br>
 [University of Wisconsin - Milwaukee](https://uwm.edu/) - Milwaukee, Wisconsin, USA _(1994 - 1997)_
 
-**Studies** in Computer Engineering<br>
+Studies in Computer Engineering<br>
 [Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_
 <br><br>
 
