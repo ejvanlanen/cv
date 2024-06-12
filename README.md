@@ -6,6 +6,7 @@
 
 [Email](mailto:ej@pm.me) / [LinkedIn](https://www.linkedin.com/in/ejvanlanen/) / [This CV](https://ejvanlanen.github.io/cv)
 
+
 ## 🧪 Product & Scientific Publishing Experience
 
 ### **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org)  
@@ -43,6 +44,7 @@ Researchers in Africa had a problem: communicating their science was difficult. 
 - Actively managed scores of Editors-in-Chief, helping them achieve growth and quality targets for their journals by providing technical, publishing, and strategic support.
 - Represented Elsevier at international scientific conferences, including the [Planet Earth Institute](https://planetearthinstitute.org.uk/'s) UnConference (2015, London, UK); the [UN Economic Commission for Africa](https://www.uneca.org/'s) Senior Experts Dialogue (2015, Nairobi, Kenya); and the Next Einstein Forum’s Global Gathering (2016, Dakar, Senegal).
 
+
 ## 📚 Book Publishing Experience
 
 ### **Founder & Publisher** @ [Frisch & Co. Ebooks](http://web.archive.org/web/20140707074238/http://frischand.co/)  
@@ -73,6 +75,7 @@ _New York, NY, 🇺🇸 USA (March 2001 - June 2026)_
 
 Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.
 
+
 ## 💬 Languages
 
 🇺🇸 **English**: Native
@@ -92,6 +95,7 @@ Advanced studies in Philosophy
 
 Studies in Computer Engineering  
 [Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_
+
 
 ## 🏆 Honors / Awards / Volunteering
 
