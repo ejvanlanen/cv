@@ -85,7 +85,7 @@ Advanced studies in Philosophy
 Advanced studies in Philosophy  
 [Ohio University](https://www.ohio.edu/) - Athens, OH, USA _(1998 - 2000)_
 
-**Bachelor of Arts** in Philosophy  
+**Bachelor of Arts (BA)** in Philosophy  
 [University of Wisconsin - Milwaukee](https://uwm.edu/) - Milwaukee, Wisconsin, USA _(1994 - 1997)_
 
 Studies in Computer Engineering  
