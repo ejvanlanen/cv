@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+a:hover, a:focus {
+  color:red;
+  font-weight:normal;
+  border-bottom: 2px dotted pink;
+}
