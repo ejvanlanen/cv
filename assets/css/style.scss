@@ -53,8 +53,13 @@ header p {
   text-align:center;
   font-size: 1.5em;
   color: #ec1993;
+  font-weight: bolder;
+  padding-top:20px;
 }
 
+header p.view {
+  display:none;
+}
 
 h1#ej-van-lanen {
   display:none;
