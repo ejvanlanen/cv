@@ -1,13 +1,14 @@
 # EJ van Lanen
 Vienna, Austria | [ej@pm.me](mailto:ej@pm.me) | +43 670 602 6055 | [linkedin.com/in/ejvanlanen](https://www.linkedin.com/in/ejvanlanen/)
 
-> I've done product management, innovated in scientific publishing, and published literature from around the world. 
+> At each step in my career, I've created change by learning a business, its customers, its constraints; conceiving and communicating a compelling vision; and delivering a new experience via product and product thinking. **I'm looking for an opportunity to apply my product and leadership skills in a technology-focused setting.**
 
-## WORK EXPERIENCE
+
+### 🏗️ WORK EXPERIENCE
 
 **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) - _(February 2022 - March 2024) - Vienna, Austria_
 
-> Peer reviewers make scientific publishing go, but they're overwhelmed with invitations and current platforms don't support their work. I built a platform that enabled Frontiers to attract reviewers without sending emails and an MVP platform to make reviewing more efficient.
+> Peer reviewers make scientific publishing go, but they're overwhelmed with invitations and current platforms don't support their work. I built a platform that enabled Frontiers to attract reviewers without sending emails and an MVP reviewing platform to engage users.
 
 - 👩‍🔬 Conceived, prototyped, user tested, and delivered a platform ([Frontiers Discover](https://progressreport.frontiersin.org/innovation)) to transform Frontiers's peer review invitation system.
 - Discover attracted tens of thousands of users, boosted invitation conversion 6x (to ~18%), shortened review time by ~7 days, and improved the overall user experience at Frontiers.
@@ -44,7 +45,7 @@ Vienna, Austria | [ej@pm.me](mailto:ej@pm.me) | +43 670 602 6055 | [linkedin.com
 - Created 6 unique publishing partnerships, with 🇧🇷 [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
 - Secured funding from government arts institutions in 🇩🇪 Germany, 🇦🇹 Austria, and 🇦🇷 Argentina.
 - Secured ebook distribution on Amazon Kindle, Apple Books, Google Play Books, and other outlets through [Faber Factory](https://faberfactory.co.uk/).
-- Produced Frisch & Co.'s Epubs, using a Markdown-based workflow and outputting via [Pandoc](https://www.pandoc.org/).
+- Produced Frisch & Co.'s epubs using a Markdown-based editorial workflow and outputting via [Pandoc](https://www.pandoc.org/).
 
 **Co-founder and Editor** @ [Open Letter Books](http://openletterbooks.org) - _(January 2007 - August 2012)_ - Rochester, NY, USA
 
@@ -61,57 +62,57 @@ Vienna, Austria | [ej@pm.me](mailto:ej@pm.me) | +43 670 602 6055 | [linkedin.com
 - Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.
 
 
-## 💬 LANGUAGES
+### 💬 LANGUAGES
 
 🇺🇸 **English**: Native
 
 🇩🇪 **German**: B2
 
 
-## 👩🏼‍🎓 EDUCATION
+### 👩🏼‍🎓 EDUCATION
+
+**BA in Philosophy**  
+[University of Wisconsin - Milwaukee](https://uwm.edu/) - Milwaukee, WI, USA _(1994 - 1997)_  
 
 Advanced studies in Philosophy  
-[New School University](https://www.newschool.edu/) - New York, NY, USA _(2000 - 2001)_
+[New School University](https://www.newschool.edu/) - New York, NY, USA _(2000 - 2001)_  
 
 Advanced studies in Philosophy  
-[Ohio University](https://www.ohio.edu/) - Athens, OH, USA _(1998 - 2000)_
-
-**Bachelor of Arts (BA)** in Philosophy  
-[University of Wisconsin - Milwaukee](https://uwm.edu/) - Milwaukee, Wisconsin, USA _(1994 - 1997)_
+[Ohio University](https://www.ohio.edu/) - Athens, OH, USA _(1998 - 2000)_  
 
 Studies in Computer Engineering  
 [Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_
 
 
-## 🏆 HONORS + VOLUNTEERING
+### 🏆 HONORS + VOLUNTEERING
 
-**Panelist and Speaker**, [Responsible Research](https://www.responsibleresearch.graduatecenter.uni-muenchen.de/event2021/index.html), Ludwig-Maximillians-Universität - Munich, 🇩🇪 Germany _(March 2021)_
+**Panelist and Speaker**, [Responsible Research](https://www.responsibleresearch.graduatecenter.uni-muenchen.de/event2021/index.html), Ludwig-Maximillians-Universität - 🇩🇪 Munich, Germany _(March 2021)_
 
-**Workshop Leader**, [African Journals Partnership Program](https://www.ajpp-online.org/) Annual Meeting - Addis Ababa, 🇪🇹 Ethiopia _(September 2018)_
+**Workshop Leader**, [African Journals Partnership Program](https://www.ajpp-online.org/) Annual Meeting - 🇪🇹 Addis Ababa, Ethiopia _(September 2018)_
 
-**Board Member**, [The Annals of African Surgery](http://web.archive.org/web/20170610211003/http://www.annalsofafricansurgery.com/) - Nairobi, 🇰🇪 Kenya _(December 2016)_
+**Board Member**, [The Annals of African Surgery](http://web.archive.org/web/20170610211003/http://www.annalsofafricansurgery.com/) - 🇰🇪 Nairobi, Kenya _(December 2016)_
 
-**Volunteer**, The Annals of African Surgery / [Research without Borders](https://elsevierfoundation.org/partnerships/research-in-developing-countries/research-without-borders/) - Nairobi, 🇰🇪 Kenya _(November - December 2016)_
+**Volunteer**, The Annals of African Surgery / [Research without Borders](https://elsevierfoundation.org/partnerships/research-in-developing-countries/research-without-borders/) - 🇰🇪 Nairobi, Kenya _(November - December 2016)_
 
-**Panelist**, "Meet the Publishers", [The London Book Fair](https://www.londonbookfair.co.uk/en-gb.html) - London, 🇬🇧 UK _(April 2014)_
+**Panelist**, "Meet the Publishers", [The London Book Fair](https://www.londonbookfair.co.uk/en-gb.html) - 🇬🇧 London, UK _(April 2014)_
 
-**Panelist**,  "Bridging the Gap: Bringing Together US and UK Translation Communities", [The Society of Authors](https://www2.societyofauthors.org/) - London, 🇬🇧 UK _(April 2014)_
+**Panelist**,  "Bridging the Gap: Bringing Together US and UK Translation Communities", [The Society of Authors](https://www2.societyofauthors.org/) - 🇬🇧 London, UK _(April 2014)_
 
-**Panelist**, [Kongress "Literatur Digital"](https://archiv.hkw.de/de/programm/projekte/veranstaltung/p_100601.php), Haus der Kulturen der Welt - Berlin, 🇩🇪 Germany _(March 2014)_
+**Panelist**, [Kongress "Literatur Digital"](https://archiv.hkw.de/de/programm/projekte/veranstaltung/p_100601.php), Haus der Kulturen der Welt - 🇩🇪 Berlin, Germany _(March 2014)_
 
-**Fellow**, [Più Libri Più Liberi Book Fair](https://plpl.it/piu-libri-piu-liberi-en/) - Rome, 🇮🇹 Italy _(December 2013)_
+**Fellow**, [Più Libri Più Liberi Book Fair](https://plpl.it/piu-libri-piu-liberi-en/) - 🇮🇹 Rome, Italy _(December 2013)_
 
-**Panelist**, [Paths to Publishing Conference](https://blog.berlin.bard.edu/conference-paths-publishing-notes-middle-journey/) - Berlin, 🇩🇪 Germany _(May 2013)_
+**Panelist**, [Paths to Publishing Conference](https://blog.berlin.bard.edu/conference-paths-publishing-notes-middle-journey/) - 🇩🇪 Berlin, Germany _(May 2013)_
 
-**Fellow**, [Sharjah International Book Fair](https://www.sibf.com/en/home) - Sharjah, 🇦🇪 UAE _(November 2011)_
+**Fellow**, [Sharjah International Book Fair](https://www.sibf.com/en/home) - 🇦🇪 Sharjah, UAE _(November 2011)_
 
-**Fellow**, [Finnish Literature Exchange](https://fili.fi/en/) Editor's Trip - Helsinki, 🇫🇮 Finland _(August 2010)_
+**Fellow**, [Finnish Literature Exchange](https://fili.fi/en/) Editor's Trip - 🇫🇮 Helsinki, Finland _(August 2010)_
 
-**Fellow**, [Più Libri Più Liberi Book Fair](https://plpl.it/piu-libri-piu-liberi-en/) - Rome, 🇮🇹 Italy _(December 2010)_
+**Fellow**, [Più Libri Più Liberi Book Fair](https://plpl.it/piu-libri-piu-liberi-en/) - 🇮🇹 Rome, Italy _(December 2010)_
 
 **Judge**, [Best Translated Book Award](https://en.wikipedia.org/wiki/Best_Translated_Book_Award) - (December 2009)
 
-**Fellow**, [Frankfurt Book Fair](https://www.buchmesse.de/en) - Frankfurt, 🇩🇪 Germany _(September 2008)_
+**Fellow**, [Frankfurt Book Fair](https://www.buchmesse.de/en) - 🇩🇪 Frankfurt, Germany _(September 2008)_
 
-**Fellow**, [Norwegian Festival of Literature](https://litteraturfestival.no/en/) - Lillehammer, 🇳🇴 Norway _(May 2008)_
+**Fellow**, [Norwegian Festival of Literature](https://litteraturfestival.no/en/) - 🇳🇴 Lillehammer, Norway _(May 2008)_
 
