@@ -1,5 +1,8 @@
 # EJ van Lanen
+
 Vienna, Austria | [ej@pm.me](mailto:ej@pm.me) | +43 670 602 6055 | [linkedin.com/in/ejvanlanen](https://www.linkedin.com/in/ejvanlanen/)
+
+---
 
 > At each step in my career, I've created change by learning a business, its customers, its constraints; conceiving and communicating a compelling vision; and delivering a new experience via product and product thinking. **I'm looking for an opportunity to apply my product and leadership skills in a technology-focused setting.**
 
@@ -16,7 +19,7 @@ Vienna, Austria | [ej@pm.me](mailto:ej@pm.me) | +43 670 602 6055 | [linkedin.com
 - Co-created a vision and strategy to modernize Frontiers's aging peer review platform, the heart of its business.
 - Rallied support for the new reviewing platform across the company, following years of stagnation, and served as lead product manager for implementation of its MVP.
 - Led 3 cross-functional teams (~30 colleagues) — product managers; UX designers and researchers; frontend and backend engineers; architects; and other business stakeholders.
-- Carried out market analysis, organized design sprints, conducted user research, built prototypes, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
+- Carried out market analysis, organized design sprints, conducted user research, constructed interactive prototypes in Axure, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
 - Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
 
 **Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) - _(June 2019 - January 2022)_ - 🇩🇪 Munich, Germany
