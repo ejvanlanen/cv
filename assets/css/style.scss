@@ -3,7 +3,36 @@
 
 @import "{{ site.theme }}";
 a:hover, a:focus {
-  color:red;
-  font-weight:normal;
-  border-bottom: 2px dotted pink;
+  color:#ec1193;
+  font-weight:500;
+  border-bottom: 2px dotted #ec1193;
 }
+
+a {
+  color:#ec1193;
+  font-weight:500;
+}
+
+header {
+  width: 200px;
+}
+
+header img {
+    max-width: 100%;
+    border-radius: 50%;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+header h1 {
+  display:none;
+}
+
+footer {
+  width:200px;
+  display: none;
+}
+
+section {
+  width:570px;
+}
+
