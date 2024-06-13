@@ -8,6 +8,14 @@ a:hover, a:focus {
   border-bottom: 2px dotted #ec1193;
 }
 
+body {
+  background-color: #efefef;
+}
+
+blockquote {
+  color:#222;
+}
+
 a {
   color:#ec1193;
   font-weight:500;
@@ -27,6 +35,10 @@ header h1 {
   display:none;
 }
 
+h1 {
+  color: #ec1193;
+}
+
 footer {
   width:200px;
   display: none;
@@ -36,3 +48,6 @@ section {
   width:570px;
 }
 
+hr {
+  margin: 20px 0 20px 0;
+}
