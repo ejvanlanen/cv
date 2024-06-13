@@ -51,7 +51,7 @@ Vienna, Austria / [ej@pm.me](mailto:ej@pm.me) / +43 670 602 6055 / [linkedin.com
 - Secured ebook distribution on Amazon Kindle, Apple Books, Google Play Books, and other outlets through [Faber Factory](https://faberfactory.co.uk/).
 - Produced Frisch & Co.'s epubs using a Markdown-based editorial workflow and outputting via [Pandoc](https://www.pandoc.org/).
 
-**Co-founder and Editor** @ [Open Letter Books](http://openletterbooks.org) - _(January 2007 - August 2012)_ - 🇺🇸 Rochester, NY, USA
+**Co-founder & Editor** @ [Open Letter Books](http://openletterbooks.org) - _(January 2007 - August 2012)_ - 🇺🇸 Rochester, NY, USA
 
 > With two colleagues, I co-founded Open Letter Books at the [University of Rochester](https://www.rochester.edu/). We built one of the leading publishers of translated fiction in the English-reading world.
 
