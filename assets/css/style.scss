@@ -41,6 +41,15 @@ h1 {
   color: #ec1193;
 }
 
+h1 a, h1 a:hover, h1 a:focus, {
+  color: #ec1993;
+}
+
+header h1 {
+  text-align:center;
+}
+
+
 h1#ej-van-lanen {
   display:none;
 }
