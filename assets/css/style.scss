@@ -3,27 +3,32 @@
 
 @import "{{ site.theme }}";
 a:hover, a:focus {
-  color:#ec1193;
-  font-weight:500;
+  color:black;
+  font-weight:bolder;
   border-bottom: 2px dotted #ec1193;
+}
+
+a {
+  color:black;
+  font-weight:bolder;
 }
 
 body {
   background-color: #efefef;
 }
 
-blockquote {
+blockquote, blockquote strong {
   color:#222;
-}
-
-a {
-  color:#ec1193;
-  font-weight:500;
 }
 
 header {
   width: 200px;
 }
+
+strong {
+  color: #ec1193;
+}
+
 
 header img {
     max-width: 100%;
