@@ -51,7 +51,6 @@ header h1 {
 
 header p {
   text-align:center;
-  padding-top:20px;
   color: #222
 }
 
@@ -59,10 +58,7 @@ header p a.name {
   color: #ec1993;
   font-size: 2em;
   font-weight:bolder;
-}
-
-header p.address {
-  padding-top:0px;
+  padding-top:10px;
 }
 
 header p.view {
@@ -86,7 +82,7 @@ hr {
   margin: 20px 0 20px 0;
 }
 
-@media print, screen and (max-width: 720px){header,section{width:auto}header p.address{display:none}}
+@media print, screen and (max-width: 720px){header,section{width:auto}header p.address{display:none}header img{max-width:80%;margin:auto;display:block;}}
 
-@media print, screen and (max-width: 480px){header,section{width:auto}header p.address{display:none}}
+@media print, screen and (max-width: 480px){header,section{width:auto}header p.address{display:none}header img{max-width:80%;margin:auto;display:block;}}
 
