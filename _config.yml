@@ -1,7 +1,8 @@
-title:  
+title: EJ van Lanen 
 logo: https://avatars.githubusercontent.com/u/172479670?s=400&u=b0b3c603fb9789292e01ff2816bf88fdec40fe83&v=4 # Use a relative path to logo image 
 show_downloads: false
 theme: jekyll-theme-minimal 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 email: ej@pm.me # Allow visitors to contact you
+description: Vienna, Austria | ej@pm.me | +43 670 602 6055 | linkedin.com/in/ejvanlanen
