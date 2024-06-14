@@ -51,14 +51,14 @@ header h1 {
 
 header p {
   text-align:center;
-  color: #222
+  color: #222;
+  padding:5px 0 10px 0;
 }
 
 header p a.name {
   color: #ec1993;
   font-size: 2em;
   font-weight:bolder;
-  padding-top:10px;
 }
 
 header p.view {
