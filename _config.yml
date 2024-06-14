@@ -5,4 +5,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 email: ej@pm.me # Allow visitors to contact you
-description: <a href="https://github.com/ejvanlanen/cv" class="name">EJ van Lanen</a><ul class="address"><li>Vienna, Austria</li><li><a href="mailto:ej@pm.me">ej@pm.me</a></li><li>+43 670 602 6055</li><li><a href="">linkedin.com/in/ejvanlanen</a></li></ul>
+description: <a href="https://github.com/ejvanlanen/cv" class="name">EJ van Lanen</a><ul class="address"><li>🇦🇹 Vienna, Austria</li><li><a href="mailto:ej@pm.me">📫 ej@pm.me</a></li><li>🧑‍💻 <a href="http://linkedin.com/in/ejvanlanen">linkedin</a></li></ul>
