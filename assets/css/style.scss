@@ -78,11 +78,15 @@ section {
   width:600px;
 }
 
+ul {
+  list-style-type:none;
+}
+
 hr {
   margin: 20px 0 20px 0;
 }
 
-@media print, screen and (max-width: 720px){header,section{width:auto}li{float:left; text-align:left; padding-right:5px;}header img{max-width:80%;margin:auto;display:block;}header p a.name{margin-top:10px; display:block;}}
+@media print, screen and (max-width: 720px){header,section{width:auto}li{float:left;text-align:left;padding-right:5px;}header img{max-width:80%;margin:auto;display:block;}header p a.name{margin-top:10px;display:block;}}
 
 @media print, screen and (max-width: 480px){header,section{width:auto}li{float:left;text-align:left;padding-right:5px;}header img{max-width:80%;margin:auto;display:block;}header p a.name{margin-top:10px;display:block;}}
 
