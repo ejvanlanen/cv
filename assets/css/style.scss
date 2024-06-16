@@ -92,9 +92,13 @@ ul.address li {
 }
 
 ul.address li.social {
- width:15px;
+ width:33%;
  float:left;
- padding-right:10px;
+ text-align:center;
+}
+
+ul.address li.social svg {
+  width:15px;
 }
 
 hr {
