@@ -82,8 +82,9 @@ section {
 ul.address {
   list-style-type:none;
   text-align:center;
-  margin:0;
+  margin:0 auto 0 auto;
   padding:0;
+  width:80%;
 }
 
 ul.address li {
@@ -91,9 +92,9 @@ ul.address li {
 }
 
 ul.address li.social {
- width:20px;
+ width:15px;
  float:left;
- padding-right:7px;
+ padding-right:10px;
 }
 
 hr {
