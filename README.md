@@ -68,9 +68,7 @@
 
 ### 💬 LANGUAGES
 
-🇺🇸 **English**: Native
-
-🇩🇪 **German**: B2
+🇺🇸 **English** Native + 🇩🇪 **German** B2
 
 ---
 
