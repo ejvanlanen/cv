@@ -2,7 +2,7 @@
 
 ---
 
-> At each step in my career, I've created change by learning a business, its customers, its constraints; conceiving and communicating a compelling vision; and delivering a new experience via product and product thinking. **I'm looking for an opportunity to apply my product and leadership skills in a technology-focused setting.**
+> At each step in my career, I've created change by learning a business, its customers, its constraints; conceiving and communicating a compelling strategic vision; and delivering a new experience via product and product thinking. **I'm looking for an opportunity to apply my product and leadership skills in a technology-focused setting.**
 
 ---
 
