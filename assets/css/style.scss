@@ -108,7 +108,7 @@ hr {
   margin: 20px 0 20px 0;
 }
 
-@media print, screen and (max-width: 720px){header,section{width:auto;}ul.address{width:90%;margin:auto;}ul.address li{padding-top:10px;}header img{max-width:80%;margin:auto;display:block;}header p a.name{margin-top:10px;display:block;}}
+@media print, screen and (max-width: 720px){header,section{width:auto;}ul.address{display:none;}header img{max-width:80%;margin:auto;display:block;}header p a.name{margin-top:10px;display:block;}}
 
-@media print, screen and (max-width: 480px){header,section{width:auto;}ul.address{width:90%;margin:auto;}ul.address li{padding-top:10px;}header img{max-width:80%;margin:auto;display:block;}header p a.name{margin-top:10px;display:block;}}
+@media print, screen and (max-width: 480px){header,section{width:auto;}ul.address{display:none;}header img{max-width:80%;margin:auto;display:block;}header p a.name{margin-top:10px;display:block;}}
 
