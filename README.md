@@ -14,7 +14,7 @@
 
 > Peer reviewers make scientific publishing go, but they're overwhelmed with invitations and current platforms don't support their work. I built a platform that enabled Frontiers to attract reviewers without sending emails and an MVP reviewing platform to engage users.
 
-- 👩‍🔬 Conceived, prototyped, user tested, and delivered a platform ([Frontiers Discover](https://progressreport.frontiersin.org/innovation)) to transform Frontiers's peer review invitation system.
+- Conceived, prototyped, user tested, and delivered a platform ([Frontiers Discover](https://progressreport.frontiersin.org/innovation)) to transform Frontiers's peer review invitation system.
 - Discover attracted tens of thousands of users, boosted invitation conversion 6x (to ~18%), shortened review time by ~7 days, and improved the overall user experience at Frontiers.
 - Co-created a vision and strategy to modernize Frontiers's aging peer review platform, the heart of its business.
 - Rallied support for the new reviewing platform across the company, following years of stagnation, and served as lead product manager for implementation of its MVP.
