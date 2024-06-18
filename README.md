@@ -2,7 +2,7 @@
 
 ---
 
-🇦🇹 Vienna, Austria / 📮 [ej@pm.me](mailto:ej@pm.me) / 👨‍💻 [linkedin](https://www.linkedin.com/in/ejvanlanen/) / 💾 [download]()
+🇦🇹 Vienna, Austria / 📮 [ej@pm.me](mailto:ej@pm.me) / 👨‍💻 [linkedin](https://www.linkedin.com/in/ejvanlanen/) / [💾]()
 
 ---
 
