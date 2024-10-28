@@ -62,7 +62,7 @@
 
 - Designed and coded a CMS for the press's [website](http://web.archive.org/web/20061213083458/http://www.dalkeyarchive.com/) using Ruby on Rails and edited several book-length translations.
 
-**Assistant Editor / Marketing Manager** @ [HarperCollins Publishers](https://www.harpercollins.com/) - _(March 2001 - June 2026)_ - 🇺🇸 New York, NY, USA
+**Audiobook Coordinator / Assistant Editor** @ [HarperCollins Publishers](https://www.harpercollins.com/) - _(March 2001 - June 2026)_ - 🇺🇸 New York, NY, USA
  
 - Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.
 
