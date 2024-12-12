@@ -6,7 +6,7 @@
 
 ---
 
-> At each step in my career, I've created change by learning a business, its customers, its constraints; conceiving and communicating a compelling strategic vision; and delivering a new experience via product and product thinking. **I'm looking for an opportunity to apply my product and leadership skills in a technology-focused setting.**
+> At each step in my career, I've created change by learning a business, its customers, its constraints; conceiving and communicating a compelling strategic vision; and delivering a new experience via product and product thinking. **I'm looking for an opportunity to apply my product and leadership skills on consumer-facing products and services.**
 
 ---
 
@@ -28,7 +28,6 @@
 
 > German research institutions are generally unhappy with the costs, and constraints, of scientific publishing. Leveraging the emerging trend of preprints, I created an MVP for a two-sided market to transform scientific communication.
 
-- Analyzed scientific publishing market to find space for modern publishing workflows.
 - Created product vision for a two-sided marketplace for the exchange and validation of scientific work.
 - Conducted user research and validation across Helmholtz's [19 research centers](https://www.helmholtz.de/en/about-us/helmholtz-centers/).
 - Recruited and product managed external contractors to develop an MVP 'preprint review' platform, leveraging [bioRxiv](https://www.biorxiv.org/).
@@ -47,10 +46,10 @@
 
 > At heart, I'm a reader, especially of literature from outside the English-speaking world. I founded Frisch & Co. to publish translated fiction by taking advantage of the efficiencies inherent in the emerging ebook market.
 
-- Created 6 unique publishing partnerships, with 🇧🇷 [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
-- Secured funding from government arts institutions in 🇩🇪 Germany, 🇦🇹 Austria, and 🇦🇷 Argentina.
+- Created unique publishing partnerships with 🇧🇷 [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇫🇮 [Otava](https://otava.fi/in-english/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
+- Secured translation funding from 🇩🇪 German; 🇦🇹 Austrian; 🇳🇱 Dutch; 🇫🇮 Finnish; 🇧🇷 Brazilian; 🇮🇹 Italian; and 🇦🇷 Argentinian arts organizations.
 - Secured ebook distribution on Amazon Kindle, Apple Books, Google Play Books, and other outlets through [Faber Factory](https://faberfactory.co.uk/).
-- Produced Frisch & Co.'s epubs using a Markdown-based editorial workflow and outputting via [Pandoc](https://www.pandoc.org/).
+- My authors included Anna Kim, Joaquín Pérez Azaústre, Carlos Busqued, Hanna Bervoets, Petri Tamminen, and Elisa Ruotolo, amongst others.
 
 **Co-founder & Editor** @ [Open Letter Books](http://openletterbooks.org) - _(January 2007 - August 2012)_ - 🇺🇸 Rochester, NY, USA
 
@@ -60,11 +59,7 @@
 
 **Editor** @ [Dalkey Archive Press](https://www.dalkeyarchive.com/) - _(July 2006 - December 2006)_ - 🇺🇸 Bloomington, IL, USA
 
-- Designed and coded a CMS for the press's [website](http://web.archive.org/web/20061213083458/http://www.dalkeyarchive.com/) using Ruby on Rails and edited several book-length translations.
-
 **Audiobook Coordinator / Assistant Editor** @ [HarperCollins Publishers](https://www.harpercollins.com/) - _(March 2001 - June 2026)_ - 🇺🇸 New York, NY, USA
- 
-- Acquired, edited, and published books by authors from 🇭🇷 Croatia, the 🇬🇧 UK, and 🇮🇳 India.
 
 ---
 
@@ -122,3 +117,5 @@ Studies in Computer Engineering
 
 **Fellow**, [Norwegian Festival of Literature](https://litteraturfestival.no/en/) - 🇳🇴 Lillehammer, Norway _(May 2008)_
 
+### ☎️ REFERENCES
+**On request**
