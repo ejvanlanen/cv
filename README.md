@@ -59,7 +59,7 @@
 
 **Editor** @ [Dalkey Archive Press](https://www.dalkeyarchive.com/) - _(July 2006 - December 2006)_ - 🇺🇸 Bloomington, IL, USA
 
-**Audiobook Coordinator / Assistant Editor** @ [HarperCollins Publishers](https://www.harpercollins.com/) - _(March 2001 - June 2026)_ - 🇺🇸 New York, NY, USA
+**Audiobook Coordinator / Assistant Editor** @ [HarperCollins Publishers](https://www.harpercollins.com/) - _(March 2001 - June 2006)_ - 🇺🇸 New York, NY, USA
 
 ---
 
