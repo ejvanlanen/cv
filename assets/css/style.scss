@@ -30,9 +30,10 @@ strong {
   color: #efefef;
 }
 
-li strong {
+li strong, strong em {
   color: #023047;
   background-color: #efefef;
+  font-style: normal;
 }
 
 header img {
