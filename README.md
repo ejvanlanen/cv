@@ -34,7 +34,7 @@
 **Senior Publisher / Publisher** @ [Elsevier GmbH](https://www.elsevier.com/) - _(October 2014 - June 2019)_ - 🇩🇪 Berlin, Germany
 
 > _Launched groundbreaking platform addressing critical needs of African researchers_
-> 
+
 - **Conceptualized and launched _Scientific African_**, a transformative publication platform created after extensive research across multiple African countries (including in 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia).
 - **Orchestrated high-profile launch** with Elsevier's CEO at the Next Einstein Forum, generating international media coverage in _CBC Radio_, _Die Zeit_, _Frankfurter Allgemeine Zeitung_, _The Guardian_, _Le Monde_, and _Science_.
 - **Managed $16M revenue portfolio** of scientific journals with $1M operating budget.
