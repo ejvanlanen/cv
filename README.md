@@ -6,7 +6,7 @@
 
 ---
 
-> Throughout my career, I've consistently identified market gaps, developed compelling product visions, and delivered transformative user experiences. My expertise lies in deeply understanding business challenges, conducting thorough market and user research, and implementing strategic solutions that drive measurable results. **I'm seeking an opportunity to leverage my product leadership experience to create impactful consumer-facing products and services**.
+> Throughout my career, I've consistently identified market gaps, developed compelling product visions, and delivered transformative user experiences. My expertise lies in deeply understanding business challenges, conducting thorough market and user research, and implementing strategic solutions that drive measurable results. **_I'm seeking an opportunity to leverage my product leadership experience to create impactful consumer-facing products and services_**.
 
 ---
 
