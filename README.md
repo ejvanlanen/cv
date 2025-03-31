@@ -76,46 +76,46 @@
 **BA in Philosophy**  
 [University of Wisconsin - Milwaukee](https://uwm.edu/) - Milwaukee, WI, USA _(1994 - 1997)_  
 
-**Advanced studies in Philosophy**  
+**_Advanced studies in Philosophy_**  
 [New School University](https://www.newschool.edu/) - New York, NY, USA _(2000 - 2001)_  
 [Ohio University](https://www.ohio.edu/) - Athens, OH, USA _(1998 - 2000)_  
 
-**Studies in Computer Engineering**  
+**_Studies in Computer Engineering_**  
 [Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_
 
 ---
 
 ### 🏆 HONORS + VOLUNTEERING
 
-**Panelist and Speaker**, [Responsible Research](https://www.responsibleresearch.graduatecenter.uni-muenchen.de/event2021/index.html), Ludwig-Maximillians-Universität - 🇩🇪 Munich, Germany _(March 2021)_
+**_Panelist and Speaker_**, [Responsible Research](https://www.responsibleresearch.graduatecenter.uni-muenchen.de/event2021/index.html), Ludwig-Maximillians-Universität - 🇩🇪 Munich, Germany _(March 2021)_
 
-**Workshop Leader**, [African Journals Partnership Program](https://www.ajpp-online.org/) Annual Meeting - 🇪🇹 Addis Ababa, Ethiopia _(September 2018)_
+**_Workshop Leader_**, [African Journals Partnership Program](https://www.ajpp-online.org/) Annual Meeting - 🇪🇹 Addis Ababa, Ethiopia _(September 2018)_
 
-**Board Member**, [The Annals of African Surgery](http://web.archive.org/web/20170610211003/http://www.annalsofafricansurgery.com/) - 🇰🇪 Nairobi, Kenya _(December 2016)_
+**_Board Member_**, [The Annals of African Surgery](http://web.archive.org/web/20170610211003/http://www.annalsofafricansurgery.com/) - 🇰🇪 Nairobi, Kenya _(December 2016)_
 
-**Volunteer**, The Annals of African Surgery / [Research without Borders](https://elsevierfoundation.org/partnerships/research-in-developing-countries/research-without-borders/) - 🇰🇪 Nairobi, Kenya _(November - December 2016)_
+**_Volunteer_**, The Annals of African Surgery / [Research without Borders](https://elsevierfoundation.org/partnerships/research-in-developing-countries/research-without-borders/) - 🇰🇪 Nairobi, Kenya _(November - December 2016)_
 
-**Panelist**, "Meet the Publishers", [The London Book Fair](https://www.londonbookfair.co.uk/en-gb.html) - 🇬🇧 London, UK _(April 2014)_
+**_Panelist_**, "Meet the Publishers", [The London Book Fair](https://www.londonbookfair.co.uk/en-gb.html) - 🇬🇧 London, UK _(April 2014)_
 
-**Panelist**,  "Bridging the Gap: Bringing Together US and UK Translation Communities", [The Society of Authors](https://www2.societyofauthors.org/) - 🇬🇧 London, UK _(April 2014)_
+**_Panelist_**,  "Bridging the Gap: Bringing Together US and UK Translation Communities", [The Society of Authors](https://www2.societyofauthors.org/) - 🇬🇧 London, UK _(April 2014)_
 
-**Panelist**, [Kongress "Literatur Digital"](https://archiv.hkw.de/de/programm/projekte/veranstaltung/p_100601.php), Haus der Kulturen der Welt - 🇩🇪 Berlin, Germany _(March 2014)_
+**_Panelist_**, [Kongress "Literatur Digital"](https://archiv.hkw.de/de/programm/projekte/veranstaltung/p_100601.php), Haus der Kulturen der Welt - 🇩🇪 Berlin, Germany _(March 2014)_
 
-**Fellow**, [Più Libri Più Liberi Book Fair](https://plpl.it/piu-libri-piu-liberi-en/) - 🇮🇹 Rome, Italy _(December 2013)_
+**_Fellow_**, [Più Libri Più Liberi Book Fair](https://plpl.it/piu-libri-piu-liberi-en/) - 🇮🇹 Rome, Italy _(December 2013)_
 
-**Panelist**, [Paths to Publishing Conference](https://blog.berlin.bard.edu/conference-paths-publishing-notes-middle-journey/) - 🇩🇪 Berlin, Germany _(May 2013)_
+**_Panelist_**, [Paths to Publishing Conference](https://blog.berlin.bard.edu/conference-paths-publishing-notes-middle-journey/) - 🇩🇪 Berlin, Germany _(May 2013)_
 
-**Fellow**, [Sharjah International Book Fair](https://www.sibf.com/en/home) - 🇦🇪 Sharjah, UAE _(November 2011)_
+**_Fellow_**, [Sharjah International Book Fair](https://www.sibf.com/en/home) - 🇦🇪 Sharjah, UAE _(November 2011)_
 
-**Fellow**, [Finnish Literature Exchange](https://fili.fi/en/) Editor's Trip - 🇫🇮 Helsinki, Finland _(August 2010)_
+**_Fellow_**, [Finnish Literature Exchange](https://fili.fi/en/) Editor's Trip - 🇫🇮 Helsinki, Finland _(August 2010)_
 
-**Fellow**, [Più Libri Più Liberi Book Fair](https://plpl.it/piu-libri-piu-liberi-en/) - 🇮🇹 Rome, Italy _(December 2010)_
+**_Fellow_**, [Più Libri Più Liberi Book Fair](https://plpl.it/piu-libri-piu-liberi-en/) - 🇮🇹 Rome, Italy _(December 2010)_
 
-**Judge**, [Best Translated Book Award](https://en.wikipedia.org/wiki/Best_Translated_Book_Award) - (December 2009)
+**_Judge_**, [Best Translated Book Award](https://en.wikipedia.org/wiki/Best_Translated_Book_Award) - (December 2009)
 
-**Fellow**, [Frankfurt Book Fair](https://www.buchmesse.de/en) - 🇩🇪 Frankfurt, Germany _(September 2008)_
+**_Fellow_**, [Frankfurt Book Fair](https://www.buchmesse.de/en) - 🇩🇪 Frankfurt, Germany _(September 2008)_
 
-**Fellow**, [Norwegian Festival of Literature](https://litteraturfestival.no/en/) - 🇳🇴 Lillehammer, Norway _(May 2008)_
+**_Fellow_**, [Norwegian Festival of Literature](https://litteraturfestival.no/en/) - 🇳🇴 Lillehammer, Norway _(May 2008)_
 
 ### ☎️ REFERENCES
-**On request**
+**_On request_**
