@@ -6,7 +6,7 @@
 
 ---
 
-> At each step in my career, I've created change by learning a business, its customers, its constraints; conceiving and communicating a compelling strategic vision; and delivering a new experience via product and product thinking. **I'm looking for an opportunity to apply my product and leadership skills on consumer-facing products and services.**
+> Throughout my career, I've consistently identified market gaps, developed compelling product visions, and delivered transformative user experiences. My expertise lies in deeply understanding business challenges, conducting thorough market and user research, and implementing strategic solutions that drive measurable results. **I'm seeking an opportunity to leverage my product leadership experience to create impactful consumer-facing products and services**.
 
 ---
 
@@ -14,48 +14,48 @@
 
 **Senior Product Manager** @ [Frontiers Media SA](http://frontiersin.org) - _(February 2022 - March 2024) - 🇦🇹 Vienna, Austria_
 
-> Peer reviewers make scientific publishing go, but they're overwhelmed with invitations and current platforms don't support their work. I built a platform that enabled Frontiers to attract reviewers without sending emails and an MVP reviewing platform to engage users.
+> _Revolutionized scientific peer review processes through strategic product vision and execution_
 
-- Conceived, prototyped, user tested, and delivered a platform ([Frontiers Discover](https://progressreport.frontiersin.org/innovation)) to transform Frontiers's peer review invitation system.
-- Discover attracted tens of thousands of users, boosted invitation conversion 6x (to ~18%), shortened review time by ~7 days, and improved the overall user experience at Frontiers.
-- Co-created a vision and strategy to modernize Frontiers's aging peer review platform, the heart of its business.
-- Rallied support for the new reviewing platform across the company, following years of stagnation, and served as lead product manager for implementation of its MVP.
-- Led 3 cross-functional teams (~30 colleagues) — product managers; UX designers and researchers; frontend and backend engineers; architects; and other business stakeholders.
-- Carried out market analysis, organized design sprints, conducted user research, constructed interactive prototypes in Axure, and developed product strategy aligned with Frontiers's business goals and the needs of 1.5 million users.
-- Managed product roadmaps, backlogs, and sprint planning to ensure the agile and timely delivery of features, fixes, and enhancements. 
+- **Conceived and delivered** Frontiers Discover, an innovative platform that transformed the peer review invitation system, attracting tens of thousands of users.
+- **Drove significant business impact** by boosting invitation conversion rates 6X (to ~18%) and shortening review time by ~7 days.
+- **Spearheaded modernization** of Frontiers' core peer review platform after years of stagnation by creating a compelling vision, building stakeholder support, and captaining implementation as lead product manager.
+- **Led 3 cross-functional teams** (~30 professionals) through the complete product development lifecycle, from concept to delivery.
+- **Executed comprehensive product strategy** through market analysis, design sprints, user research, interactive Axure prototyping, and strategic development aligned with business objectives and the needs of 1.5 million users.
 
 **Senior Manager, Publications** @ [Helmholtz Munich](https://www.helmholtz-munich.de/en) - _(June 2019 - January 2022)_ - 🇩🇪 Munich, Germany
 
-> German research institutions are generally unhappy with the costs, and constraints, of scientific publishing. Leveraging the emerging trend of preprints, I created an MVP for a two-sided market to transform scientific communication.
+> _Created an innovative two-sided marketplace to transform scientific communication_
 
-- Created product vision for a two-sided marketplace for the exchange and validation of scientific work.
-- Conducted user research and validation across Helmholtz's [19 research centers](https://www.helmholtz.de/en/about-us/helmholtz-centers/).
-- Recruited and product managed external contractors to develop an MVP 'preprint review' platform, leveraging [bioRxiv](https://www.biorxiv.org/).
-- Created web design for the platform, implemented the design using Tailwind CSS, and contributed Javascript fixes and minor functionality.
+- **Developed product vision** for a groundbreaking marketplace addressing the cost and constraint challenges in scientific publishing.
+- **Conducted extensive user research** across Helmholtz's 19 research centers to validate market needs.
+- **Led end-to-end product development** from recruiting external contractors to delivering an MVP 'preprint review' platform integrated with bioRxiv.
+- **Demonstrated technical versatility** by creating web designs, implementing them with Tailwind CSS, and contributing JavaScript fixes.
 
 **Senior Publisher / Publisher** @ [Elsevier GmbH](https://www.elsevier.com/) - _(October 2014 - June 2019)_ - 🇩🇪 Berlin, Germany
 
-> Researchers in Africa had a problem: communicating their science was difficult. Following extensive discussions with researchers and stakeholders — including in 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia — I created _Scientific African_ in partnership with the [Next Einstein Forum](https://nef.org/).
-
-- Developed, bulit a partnership for, and published [_Scientific African_](https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-full-episode-1.4612977/often-sidelined-by-western-journals-african-scientists-get-their-own-peer-reviewed-publication-1.4612980), a critically valuable source of scientific information for, and by, researchers from Africa.
-- Launched _Scientific African_ with [Elsevier’s CEO](https://www.youtube.com/watch?v=ka__ldVfjOc) at the Next Einstein Forum Global Gathering in Kigali, Rwanda in March 2018. Covered in [_Die Zeit_](https://www.zeit.de/2018/15/ruanda-next-einstein-forum-nef-afrika-wissenschaft-forschung), [_Frankfurter Allgemeine Zeitung_](https://www.faz.net/aktuell/wirtschaft/wie-afrika-die-bildungsmisere-ueberwinden-will-15519782.html), [_The Economist_](https://www.economist.com/science-and-technology/2018/04/07/an-ambitious-african-science-project-is-getting-into-its-stride), [_Le Monde_](https://www.lemonde.fr/afrique/article/2018/03/28/au-next-einstein-forum-la-science-africaine-en-pleine-effervescence_5277650_3212.html), and [_Science_](https://www.science.org/doi/10.1126/science.359.6383.1444).
-- Managed a portfolio of Food Science and Oceanography journals, with annual revenues of $16,000,000 USD and an annual operating budget of $1,000,000 USD.
-- Actively managed scores of Editors-in-Chief from dozens of countries, helping them achieve growth and quality targets for their journals by providing technical, publishing, and strategic support.
+> _Launched groundbreaking platform addressing critical needs of African researchers_
+> 
+- **Conceptualized and launched _Scientific African_**, a transformative publication platform created after extensive research across multiple African countries (including in 🇬🇭 Ghana, 🇰🇪 Kenya, 🇷🇼 Rwanda, 🇸🇳 Senegal, and 🇪🇹 Ethiopia).
+- **Orchestrated high-profile launch** with Elsevier's CEO at the Next Einstein Forum, generating international media coverage in _CBC Radio_, _Die Zeit_, _Frankfurter Allgemeine Zeitung_, _The Guardian_, _Le Monde_, and _Science_.
+- **Managed $16M revenue portfolio** of scientific journals with $1M operating budget.
+- **Directed international stakeholder relationships** with Editors-in-Chief across dozens of countries, providing strategic guidance to achieve growth and quality targets.
 
 **Founder & Publisher** @ [Frisch & Co. Ebooks](http://web.archive.org/web/20140707074238/http://frischand.co/) - _(September 2012 - May 2016)_ - 🇩🇪 Berlin, Germany
 
-> At heart, I'm a reader, especially of literature from outside the English-speaking world. I founded Frisch & Co. to publish translated fiction by taking advantage of the efficiencies inherent in the emerging ebook market.
+> _Pioneered digital publishing model for international literature_
 
-- Created unique publishing partnerships with 🇧🇷 [Companhia das Letras](https://www.companhiadasletras.com.br/), 🇩🇪 [Suhrkamp Verlag](https://www.suhrkamp.de/), 🇳🇱 [Atlas Contact](http://www.atlascontact.nl/), 🇮🇹 [Edizioni Nottetempo](https://www.edizioninottetempo.it/), 🇫🇮 [Otava](https://otava.fi/in-english/), 🇸🇪 [Natur & Kultur](https://www.nok.se/), and 🇪🇸 [Editorial Anagrama](https://www.anagrama-ed.es/). 
-- Secured translation funding from 🇩🇪 German; 🇦🇹 Austrian; 🇳🇱 Dutch; 🇫🇮 Finnish; 🇧🇷 Brazilian; 🇮🇹 Italian; and 🇦🇷 Argentinian arts organizations.
-- Secured ebook distribution on Amazon Kindle, Apple Books, Google Play Books, and other outlets through [Faber Factory](https://faberfactory.co.uk/).
-- My authors included Anna Kim, Joaquín Pérez Azaústre, Carlos Busqued, Hanna Bervoets, Petri Tamminen, and Elisa Ruotolo, amongst others.
+- **Identified market opportunity** to leverage emerging ebook technologies for translated fiction.
+- **Established strategic partnerships** with major international publishers across 🇩🇪 Germany; 🇪🇸 Spain; the 🇳🇱 Netherlands; 🇫🇮 Finland; 🇧🇷 Brazil; and 🇮🇹 Italy.
+- **Secured multiple funding streams** from arts organizations across seven countries.
+- **Built distribution network** on major platforms including Amazon Kindle, Apple Books, and Google Play Books.
 
 **Co-founder & Editor** @ [Open Letter Books](http://openletterbooks.org) - _(January 2007 - August 2012)_ - 🇺🇸 Rochester, NY, USA
 
-> With two colleagues, I co-founded Open Letter Books at the [University of Rochester](https://www.rochester.edu/). We built one of the leading publishers of translated fiction in the English-reading world.
+> _Co-created one of the leading publishers of translated fiction in the English-language market_
 
-- Acquired and edited ~50 book-length translations; designed Open Letter's book covers; and coded a CMS for the press's [website](http://web.archive.org/web/20111230014610/http://www.openletterbooks.org/) using Ruby on Rails.
+- **Built publishing operation from ground up**, developing it into a recognized leader in its niche.
+- **Managed complete product lifecycle** for ~50 book-length translations, from acquisition through editing.
+- **Designed brand identity** through book cover creation and developed custom CMS using Ruby on Rails.
 
 **Editor** @ [Dalkey Archive Press](https://www.dalkeyarchive.com/) - _(July 2006 - December 2006)_ - 🇺🇸 Bloomington, IL, USA
 
@@ -63,9 +63,11 @@
 
 ---
 
-### 💬 LANGUAGES
+### 🧰 TECHNICAL SKILLS
 
-🇺🇸 **English** Native + 🇩🇪 **German** B2
+- **Product Management**: User Research, Prototyping (Axure), Design Sprints, Market Analysis, Product Strategy, Product & Strategy Workshops
+- **Development**: JavaScript, Ruby on Rails, Tailwind CSS, Linux
+- **Languages**: 🇺🇸 English (Native) + 🇩🇪 German (B2)
 
 ---
 
@@ -74,13 +76,11 @@
 **BA in Philosophy**  
 [University of Wisconsin - Milwaukee](https://uwm.edu/) - Milwaukee, WI, USA _(1994 - 1997)_  
 
-Advanced studies in Philosophy  
+**Advanced studies in Philosophy**  
 [New School University](https://www.newschool.edu/) - New York, NY, USA _(2000 - 2001)_  
-
-Advanced studies in Philosophy  
 [Ohio University](https://www.ohio.edu/) - Athens, OH, USA _(1998 - 2000)_  
 
-Studies in Computer Engineering  
+**Studies in Computer Engineering**  
 [Milwaukee School of Engineering](https://www.msoe.edu/) - Milwaukee, WI, USA _(1992 - 1994)_
 
 ---
