@@ -15,6 +15,7 @@ a {
 
 body {
   background-color: #efefef;
+  color:black;
 }
 
 blockquote, blockquote strong {
@@ -34,6 +35,10 @@ li strong, strong em {
   color: #023047;
   background-color: #efefef;
   font-style: normal;
+}
+
+li {
+  margin-bottom:5px;
 }
 
 header img {
